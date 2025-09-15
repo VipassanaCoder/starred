@@ -251,7 +251,8 @@
 
 ## ai 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef) - Open-source, low-code, extendable API integration & workflow automation platform. Integrate your organization or your SaaS product with any third party API
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -406,6 +407,8 @@
 
 ## awesome 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+- [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -437,6 +440,8 @@
 
 ## awesome-list 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+- [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -470,7 +475,7 @@
 
 ## aws 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -484,7 +489,7 @@
 
 ## azure 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -544,6 +549,7 @@
 
 ## blockchain 
 
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
@@ -608,7 +614,7 @@
 
 ## chatgpt 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim.
@@ -621,6 +627,7 @@
 
 ## chrome 
 
+- [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captc
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -629,6 +636,7 @@
 
 ## cli 
 
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [0xc000022070/0xgen](https://github.com/0xc000022070/0xgen) - Even my pets have a memory address as a name
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
@@ -988,6 +996,7 @@
 
 ## development 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -1002,7 +1011,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Test Orchestration and Execution Framework for Cloud-Native Applications
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
@@ -1037,12 +1046,14 @@
 
 ## django 
 
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [mozilla/pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 
 ## docker 
 
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings by using the Grafana API
@@ -1198,6 +1209,8 @@
 
 ## ethereum 
 
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
@@ -1227,6 +1240,7 @@
 
 ## firefox 
 
+- [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1315,6 +1329,7 @@
 
 ## git 
 
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1364,6 +1379,7 @@
 
 ## go 
 
+- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [0xc000022070/0xgen](https://github.com/0xc000022070/0xgen) - Even my pets have a memory address as a name
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [ariasmn/ugm](https://github.com/ariasmn/ugm) - A terminal based UNIX user and group browser
@@ -1508,6 +1524,9 @@
 
 ## golang 
 
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
+- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
@@ -1663,7 +1682,7 @@
 
 ## google 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 
 ## google-cloud 
@@ -1693,6 +1712,10 @@
 
 ## hacktoberfest 
 
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
+- [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs in Ruby.
@@ -1850,6 +1873,8 @@
 
 ## haskell 
 
+- [qfpl/applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
+- [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -1923,6 +1948,7 @@
 
 ## http 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
@@ -1941,6 +1967,7 @@
 
 ## https 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -2042,6 +2069,7 @@
 
 ## javascript 
 
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -2139,6 +2167,8 @@
 
 ## kubernetes 
 
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
+- [farcaller/nix-kube-generators](https://github.com/farcaller/nix-kube-generators) - A set of functions helping to generate k8s yamls.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -2158,8 +2188,9 @@
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Test Orchestration and Execution Framework for Cloud-Native Applications
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+- [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -2297,6 +2328,9 @@
 
 ## linux 
 
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
+- [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [luisnquin/battery-notifier](https://github.com/luisnquin/battery-notifier) - The missing part of your WM, a customizable battery notifier for Linux (?Lightweight battery daemon)
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser
@@ -2357,6 +2391,7 @@
 
 ## llm 
 
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef) - Open-source, low-code, extendable API integration & workflow automation platform. Integrate your organization or your SaaS product with any third party API
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -2518,6 +2553,7 @@
 
 ## material-design 
 
+- [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -2564,12 +2600,12 @@
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Test Orchestration and Execution Framework for Cloud-Native Applications
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -2818,7 +2854,7 @@
 
 ## openai 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
@@ -2853,6 +2889,52 @@
 
 ## others 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [wellposed/numerical](https://github.com/wellposed/numerical) - Numerical is the core library for Numerical Haskell
+- [bitemyapp/open-haskell](https://github.com/bitemyapp/open-haskell) - Community edited and directed course based on Spring '13 cis194.
+- [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
+- [jyp/styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
+- [larskuhtz/ghci-pretty](https://github.com/larskuhtz/ghci-pretty) - tiny hack for colored pretty-printing within ghci
+- [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
+- [garbas/nix-docker-nix](https://github.com/garbas/nix-docker-nix) - An attept to a fully configured Nix environment in a Docker image.
+- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
+- [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
+- [mitchellh/flask-nix-example](https://github.com/mitchellh/flask-nix-example) - 
+- [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
+- [nmattia/sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
+- [MagicRB/nomad-driver-containerd-nix](https://github.com/MagicRB/nomad-driver-containerd-nix) - 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
+- [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
+- [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
+- [Gabriella439/bench](https://github.com/Gabriella439/bench) - Command-line benchmark tool
+- [haskell-nix/hnix](https://github.com/haskell-nix/hnix) - A Haskell re-implementation of the Nix expression language
+- [NixOS/nixpkgs-vet](https://github.com/NixOS/nixpkgs-vet) - Tool to vet (check) Nixpkgs, including its pkgs/by-name directory
+- [Arnavion/k8s-openapi](https://github.com/Arnavion/k8s-openapi) - Rust definitions of the resource types in the Kubernetes client API
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
+- [srhb/nixpkgs-fmt](https://github.com/srhb/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
+- [cloudflare/certmgr](https://github.com/cloudflare/certmgr) - Automated certificate management using a CFSSL CA.
+- [srhb/certmgr](https://github.com/srhb/certmgr) - Automated certificate management using a CFSSL CA.
+- [srhb/treefmt-symlink-broken](https://github.com/srhb/treefmt-symlink-broken) - https://github.com/numtide/treefmt/issues/221
+- [DBCDK/pg-queue](https://github.com/DBCDK/pg-queue) - Database based queue system
+- [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
+- [geohot/twitchctw](https://github.com/geohot/twitchctw) - compression = AI
+- [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) - Scripts for manual connections to Private Internet Access
+- [pia-foss/desktop-dep-build](https://github.com/pia-foss/desktop-dep-build) - Build external dependencies for PIA Desktop
+- [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
+- [pia-foss/mobile-android](https://github.com/pia-foss/mobile-android) - Private Internet Access - Android VPN Client
+- [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
+- [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
+- [jyn514/threaded-server](https://github.com/jyn514/threaded-server) - A stupid simple server with threading
+- [jyn514/markdown](https://github.com/jyn514/markdown) - A cross-platform clojure/script parser for Markdown
+- [jyn514/http-server](https://github.com/jyn514/http-server) - Serve static assets
+- [jnfoster/reverse](https://github.com/jnfoster/reverse) - Reversible Lambda Calculus
+- [jgmdev/wl-color-picker](https://github.com/jgmdev/wl-color-picker) - A wayland color picker that also works on wlroots
+- [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
+- [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
+- [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
+- [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) - Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 - [GTrunSec/nix-devops-cheatsheet](https://github.com/GTrunSec/nix-devops-cheatsheet) - nix flake (preset) templates for the production of devops
 - [StefMa/hugo-fresh](https://github.com/StefMa/hugo-fresh) - Hugo Fresh Theme
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
@@ -2973,7 +3055,6 @@
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) - The swiss army knife of live data migrations
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [kelseyhightower/hashiapp](https://github.com/kelseyhightower/hashiapp) - Demo 12 Factor application that utilizes Hashicorp tools.
@@ -3424,7 +3505,7 @@
 - [marcusbuffett/Clanki](https://github.com/marcusbuffett/Clanki) - Command-line spaced-repetition learning software. CL (command line) + Anki (popular spaced-repetition software) = Clanki.
 - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [tssm/up-to-date-real-world-haskell](https://github.com/tssm/up-to-date-real-world-haskell) - I'm trying to update the Real World Haskell book
 - [informatikr/hedis](https://github.com/informatikr/hedis) - A Redis client library for Haskell.
 - [haskell/statistics](https://github.com/haskell/statistics) - A fast, high quality library for computing with statistics in Haskell.
@@ -3711,6 +3792,8 @@
 
 ## postgresql 
 
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -3807,6 +3890,8 @@
 
 ## python 
 
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for working with the ESPARGOS WiFi channel sounder
 - [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
@@ -4012,6 +4097,7 @@
 
 ## rest-api 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [rekloud/tinvois-parser](https://github.com/rekloud/tinvois-parser) - Extract receipt info
 - [tzemanovic/haskell-yesod-realworld-example-app](https://github.com/tzemanovic/haskell-yesod-realworld-example-app) - Exemplary real world application built with Haskell + Yesod
@@ -4020,6 +4106,7 @@
 
 ## reverse-engineering 
 
+- [commaai/opendbc](https://github.com/commaai/opendbc) - a Python API for your car
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
 ## robotics 
@@ -4049,6 +4136,8 @@
 
 ## rust 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
 - [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -4079,7 +4168,7 @@
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [oxidecomputer/newtype-uuid](https://github.com/oxidecomputer/newtype-uuid) - A wrapper around UUIDs to provide type safety
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @zmitchell]
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt]
 - [askama-rs/askama](https://github.com/askama-rs/askama) - A template rendering engine based on Jinja, generating type-safe Rust code at compile time.
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -4209,6 +4298,7 @@
 
 ## security 
 
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -4467,6 +4557,7 @@
 
 ## svelte 
 
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -4573,11 +4664,13 @@
 
 ## testing 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Test Orchestration and Execution Framework for Cloud-Native Applications
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [efficientgo/e2e](https://github.com/efficientgo/e2e) - Robust framework for running complex workload scenarios in isolation, using Go; for integration, e2e tests, benchmarks and more! 💪
@@ -4620,6 +4713,7 @@
 
 ## typescript 
 
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
@@ -4746,6 +4840,8 @@
 
 ## vpn 
 
+- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop.
+- [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -4769,6 +4865,7 @@
 
 ## vuejs 
 
+- [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [IntelliTect/Coalesce](https://github.com/IntelliTect/Coalesce) - Quickly build amazing web apps
