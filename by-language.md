@@ -205,6 +205,9 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [pia-foss/desktop](https://github.com/pia-foss/desktop) - Private Internet Access - Desktop VPN Client for Windows/macOS/Linux
+- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop.
 - [bepaald/signalbackup-tools](https://github.com/bepaald/signalbackup-tools) - Tool to work with Signal Backup files.
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A composable and fully extensible C++ execution engine library for data management systems.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -319,6 +322,7 @@
 
 ## Dockerfile 
 
+- [mitchellh/flask-nix-example](https://github.com/mitchellh/flask-nix-example) - 
 - [vzarytovskii/haskell-dev-env](https://github.com/vzarytovskii/haskell-dev-env) - A Dockerfile for Haskell Development, and DevContainer for VSCode, for installing GHC HLS (Haskell Language Server) and the required plugins
 - [haskell/docker-haskell](https://github.com/haskell/docker-haskell) - 
 - [fpco/dockerfile-argocd-deploy](https://github.com/fpco/dockerfile-argocd-deploy) - Dockerfile for image containing tools for CI jobs to deploy to Kubernetes using ArgoCD
@@ -369,6 +373,16 @@
 
 ## Go 
 
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
+- [MagicRB/nomad-driver-containerd-nix](https://github.com/MagicRB/nomad-driver-containerd-nix) - 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [cloudflare/certmgr](https://github.com/cloudflare/certmgr) - Automated certificate management using a CFSSL CA.
+- [srhb/certmgr](https://github.com/srhb/certmgr) - Automated certificate management using a CFSSL CA.
+- [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
+- [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
+- [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
+- [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
+- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
@@ -441,7 +455,6 @@
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [Shopify/goose](https://github.com/Shopify/goose) - Curated collection of Go packages that integrate well together
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) - The swiss army knife of live data migrations
@@ -798,6 +811,7 @@
 
 ## HCL 
 
+- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
 - [neondatabase/terraform-k8s-fluxcd-sops](https://github.com/neondatabase/terraform-k8s-fluxcd-sops) - 
 - [HoussemDellai/aks-course](https://github.com/HoussemDellai/aks-course) - Demoing Kubernetes/AKS features
 - [CircleCI-Public/server-terraform](https://github.com/CircleCI-Public/server-terraform) - Help Terraform modules for CircleCI server
@@ -844,6 +858,13 @@
 
 ## Haskell 
 
+- [wellposed/numerical](https://github.com/wellposed/numerical) - Numerical is the core library for Numerical Haskell
+- [bitemyapp/open-haskell](https://github.com/bitemyapp/open-haskell) - Community edited and directed course based on Spring '13 cis194.
+- [jyp/styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
+- [larskuhtz/ghci-pretty](https://github.com/larskuhtz/ghci-pretty) - tiny hack for colored pretty-printing within ghci
+- [qfpl/applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
+- [Gabriella439/bench](https://github.com/Gabriella439/bench) - Command-line benchmark tool
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
 - [hercules-ci/hercules-ci-agent](https://github.com/hercules-ci/hercules-ci-agent) - https://hercules-ci.com build and deployment agent
 - [haskellfoundation/tech-proposals](https://github.com/haskellfoundation/tech-proposals) - The Haskell Foundation Tech Proposal Process
@@ -969,6 +990,7 @@
 
 ## Java 
 
+- [DBCDK/pg-queue](https://github.com/DBCDK/pg-queue) - Database based queue system
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef) - Open-source, low-code, extendable API integration & workflow automation platform. Integrate your organization or your SaaS product with any third party API
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
@@ -1129,6 +1151,7 @@
 
 ## Kotlin 
 
+- [pia-foss/mobile-android](https://github.com/pia-foss/mobile-android) - Private Internet Access - Android VPN Client
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
@@ -1273,6 +1296,18 @@
 
 ## Nix 
 
+- [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
+- [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
+- [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
+- [garbas/nix-docker-nix](https://github.com/garbas/nix-docker-nix) - An attept to a fully configured Nix environment in a Docker image.
+- [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
+- [dep-sys/nix-dabei](https://github.com/dep-sys/nix-dabei) - An operating system generator, based on nixos, focused on installation
+- [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
+- [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
+- [farcaller/nix-kube-generators](https://github.com/farcaller/nix-kube-generators) - A set of functions helping to generate k8s yamls.
+- [haskell-nix/hnix](https://github.com/haskell-nix/hnix) - A Haskell re-implementation of the Nix expression language
+- [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
+- [srhb/treefmt-symlink-broken](https://github.com/srhb/treefmt-symlink-broken) - https://github.com/numtide/treefmt/issues/221
 - [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [GTrunSec/nix-devops-cheatsheet](https://github.com/GTrunSec/nix-devops-cheatsheet) - nix flake (preset) templates for the production of devops
@@ -1358,6 +1393,9 @@
 
 ## Others 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+- [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
+- [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
@@ -1470,6 +1508,9 @@
 
 ## Python 
 
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
+- [geohot/twitchctw](https://github.com/geohot/twitchctw) - compression = AI
+- [commaai/opendbc](https://github.com/commaai/opendbc) - a Python API for your car
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
@@ -1686,6 +1727,13 @@
 
 ## Rust 
 
+- [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
+- [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [NixOS/nixpkgs-vet](https://github.com/NixOS/nixpkgs-vet) - Tool to vet (check) Nixpkgs, including its pkgs/by-name directory
+- [Arnavion/k8s-openapi](https://github.com/Arnavion/k8s-openapi) - Rust definitions of the resource types in the Kubernetes client API
+- [srhb/nixpkgs-fmt](https://github.com/srhb/nixpkgs-fmt) - Nix code formatter for nixpkgs [maintainer=@zimbatm]
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [NixySoftware/supermarket](https://github.com/NixySoftware/supermarket) - Rust client for supermarket APIs.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
@@ -1967,6 +2015,9 @@
 
 ## Shell 
 
+- [nmattia/sorri](https://github.com/nmattia/sorri) - Just Add Water direnv support for the nix-shell
+- [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) - Scripts for manual connections to Private Internet Access
+- [pia-foss/desktop-dep-build](https://github.com/pia-foss/desktop-dep-build) - Build external dependencies for PIA Desktop
 - [jgmdev/wl-color-picker](https://github.com/jgmdev/wl-color-picker) - A wayland color picker that also works on wlroots
 - [isItObservable/fluentbit-vs-collector](https://github.com/isItObservable/fluentbit-vs-collector) - 
 - [blackjid/home-ops](https://github.com/blackjid/home-ops) - Homelab GitOps repository. Cluster definition state via code.
@@ -2082,6 +2133,7 @@
 
 ## TypeScript 
 
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [socketio/bun-engine](https://github.com/socketio/bun-engine) - The Socket.IO low-level engine for Bun
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
@@ -2096,7 +2148,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine) - The most powerful backend engine for web3 apps.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -2119,6 +2171,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
