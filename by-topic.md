@@ -873,7 +873,6 @@
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [rekloud/tinvois-parser](https://github.com/rekloud/tinvois-parser) - Extract receipt info
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -3020,7 +3019,7 @@
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [dkyanakiev/vaul7y](https://github.com/dkyanakiev/vaul7y) - TUI for Hashicorp Vault
 - [psacawa/systemd-language-server](https://github.com/psacawa/systemd-language-server) - Language Server for Systemd unit files
-- [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized as development environment, based on nixos-unified.
+- [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
 - [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard
