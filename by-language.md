@@ -100,6 +100,8 @@
 
 ## C 
 
+- [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
+- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [jyn514/threaded-server](https://github.com/jyn514/threaded-server) - A stupid simple server with threading
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [grantrostig/iris-floss-wayland](https://github.com/grantrostig/iris-floss-wayland) - Open source blue light reduction software for Linux with Wayland
@@ -374,6 +376,8 @@
 
 ## Go 
 
+- [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
+- [ainsleyclark/go-mail](https://github.com/ainsleyclark/go-mail) - 📧 A cross platform mail driver for GoLang. Featuring Mailgun, Postal, Postmark, SendGrid, SparkPost & SMTP.
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [MagicRB/nomad-driver-containerd-nix](https://github.com/MagicRB/nomad-driver-containerd-nix) - 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -820,6 +824,7 @@
 
 ## HTML 
 
+- [go-kit/go-kit.github.io](https://github.com/go-kit/go-kit.github.io) - The gokit.io website.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [TomDeneire/neovimmm](https://github.com/TomDeneire/neovimmm) - GitHub's 1000 top Neovim repositories
 - [Endg4meZer0/Windwaker-Dotfiles](https://github.com/Endg4meZer0/Windwaker-Dotfiles) - That kind of rice that gets you like the wind with its freshness in the darkest nights.
@@ -1328,7 +1333,7 @@
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@GaetanLepage, @willruggiano]
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
 - [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
-- [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized as development environment, based on nixos-unified.
+- [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
@@ -1398,6 +1403,7 @@
 
 ## Others 
 
+- [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
@@ -1500,6 +1506,7 @@
 
 ## PowerShell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [IntelliTect/PSToolbox](https://github.com/IntelliTect/PSToolbox) - PowerShell scripts and modules on PowerShell gallery
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
@@ -1732,6 +1739,7 @@
 
 ## Rust 
 
+- [iamnbutler/luna](https://github.com/iamnbutler/luna) - In-development software design tool in the vein of figma, sketchapp, and old Framer.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
@@ -2141,6 +2149,7 @@
 
 ## TypeScript 
 
+- [danilo-leal/roles-at](https://github.com/danilo-leal/roles-at) - Find high-quality software design and engineering roles.
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [socketio/bun-engine](https://github.com/socketio/bun-engine) - The Socket.IO low-level engine for Bun
@@ -2157,7 +2166,6 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine) - The most powerful backend engine for web3 apps.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
