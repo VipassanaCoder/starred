@@ -251,7 +251,7 @@
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -1056,6 +1056,8 @@
 
 ## JavaScript 
 
+- [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [Peergos/web-ui](https://github.com/Peergos/web-ui) - The Web interface for Peergos
 - [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
@@ -1156,6 +1158,7 @@
 
 ## Just 
 
+- [catppuccin/fuzzel](https://github.com/catppuccin/fuzzel) - 🚀 Soothing pastel theme for Fuzzel
 - [fpco/alpine-haskell-stack](https://github.com/fpco/alpine-haskell-stack) - 
 
 ## Kotlin 
@@ -1305,6 +1308,9 @@
 
 ## Nix 
 
+- [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
+- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
@@ -1739,6 +1745,8 @@
 
 ## Rust 
 
+- [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
+- [vv9k/pkger](https://github.com/vv9k/pkger) - Automate building RPMs and DEBs as well as other artifacts on multiple Linux distributions, versions and architectures using Docker/Podman
 - [iamnbutler/luna](https://github.com/iamnbutler/luna) - In-development software design tool in the vein of figma, sketchapp, and old Framer.
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
@@ -2149,6 +2157,7 @@
 
 ## TypeScript 
 
+- [Scetch/resume](https://github.com/Scetch/resume) - Simple Resume Template
 - [danilo-leal/roles-at](https://github.com/danilo-leal/roles-at) - Find high-quality software design and engineering roles.
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -2286,7 +2295,7 @@
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [CommunitySolidServer/CommunitySolidServer](https://github.com/CommunitySolidServer/CommunitySolidServer) - An open and modular implementation of the Solid specifications
 - [inrupt/solid-common-vocab-js](https://github.com/inrupt/solid-common-vocab-js) - A library providing JavaScript objects to represent the individual terms (i.e. the classes and properties) defined in RDF vocabularies.
-- [inrupt/solid-client-notifications-js](https://github.com/inrupt/solid-client-notifications-js) - 
+- [inrupt/solid-client-notifications-js](https://github.com/inrupt/solid-client-notifications-js) - A JS client library for Solid notifications
 - [inrupt/solid-ui-react](https://github.com/inrupt/solid-ui-react) - React SDK using @inrupt/solid-client
 - [inrupt/typescript-sdk-tools](https://github.com/inrupt/typescript-sdk-tools) - Tooling used when writing Inrupt's Typescript SDK for Solid
 - [inrupt/solid-client-access-grants-js](https://github.com/inrupt/solid-client-access-grants-js) - Library for managing verifiable consent grants in Solid
@@ -2350,6 +2359,7 @@
 
 ## Vue 
 
+- [uncenter/json-to-nix](https://github.com/uncenter/json-to-nix) - 🧮 A web app to quickly convert JSON to Nix values.
 - [fireship-io/vue-firebase-walkie-talkie](https://github.com/fireship-io/vue-firebase-walkie-talkie) - Build a walkie-talkie style chat app with Vue & Firebase
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
