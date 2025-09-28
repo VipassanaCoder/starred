@@ -1198,6 +1198,12 @@
 
 ## Lua 
 
+- [knl/rh](https://github.com/knl/rh) - A hierarchy aware `cd` command for easier navigation to your repositories
+- [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
+- [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
+- [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
+- [mistweaverco/ndoo.nvim](https://github.com/mistweaverco/ndoo.nvim) - 🐙 ndoo.nvim - simple utils for working with Github, Bitbucket and GitLab inside Neovim.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [QuadrupleA/sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
 - [ninetyfive-gg/ninetyfive.nvim](https://github.com/ninetyfive-gg/ninetyfive.nvim) - A Neovim plugin that provides really fast code suggestions.
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
@@ -1328,6 +1334,7 @@
 
 ## Nix 
 
+- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
@@ -2176,6 +2183,7 @@
 
 ## Svelte 
 
+- [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial) - A basic realtime chat app with Pocketbase and Svelte
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
