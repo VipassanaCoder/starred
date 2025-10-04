@@ -1825,6 +1825,7 @@
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
@@ -1931,7 +1932,6 @@
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -3290,7 +3290,6 @@
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -3301,7 +3300,7 @@
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [remix-run/react-router-templates](https://github.com/remix-run/react-router-templates) - 
-- [tokenami/tokenami](https://github.com/tokenami/tokenami) - CSS-in-JS reinvented for scalable, typesafe design systems. A modern approach to just-in-time atomic CSS using CSS variables—no bundler required.
+- [tokenami/tokenami](https://github.com/tokenami/tokenami) - CSS-in-JS reinvented for portable, type-safe design systems. A modern approach to just-in-time CSS using atomic CSS variables—no bundler required.
 - [fireship-io/167-flutter-geolocation-firestore](https://github.com/fireship-io/167-flutter-geolocation-firestore) - Episode 167 - Realtime Geolocation with Flutter, Google Maps, and Firestore
 - [fireship-io/firechat-react-native](https://github.com/fireship-io/firechat-react-native) - Firebase chat app built with React Native
 - [fireship-io/api-monetization-demo](https://github.com/fireship-io/api-monetization-demo) - Build a Monetized API with Stripe Metered Billing
