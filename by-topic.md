@@ -1882,7 +1882,6 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [IntelliTect/Coalesce](https://github.com/IntelliTect/Coalesce) - Quickly build amazing web apps
 - [IntelliTect/EssentialCSharp](https://github.com/IntelliTect/EssentialCSharp) - This project contains the source code for the book Essential C# by Mark Michaelis (Addison-Wesley).
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
