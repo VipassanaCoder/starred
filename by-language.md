@@ -101,6 +101,8 @@
 
 ## C 
 
+- [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
+- [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -210,6 +212,7 @@
 
 ## C++ 
 
+- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [nixcloud/ip2unix](https://github.com/nixcloud/ip2unix) - Turn IP sockets into Unix domain sockets
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -270,6 +273,7 @@
 
 ## CSS 
 
+- [jondot/graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
 - [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [creativcoder/next-tailwind](https://github.com/creativcoder/next-tailwind) - 
@@ -363,6 +367,7 @@
 
 ## Erlang 
 
+- [AntidoteDB/antidote](https://github.com/AntidoteDB/antidote) - A planet scale, highly available, transactional database built on CRDT technology
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [duncanatt/detecter](https://github.com/duncanatt/detecter) - A runtime verification tool for Erlang systems
 
@@ -381,6 +386,12 @@
 
 ## Go 
 
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+- [thejerf/suture](https://github.com/thejerf/suture) - Supervisor trees for Go.
+- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
+- [bdeggleston/kickboxer](https://github.com/bdeggleston/kickboxer) - A clustered, masterless redis clone, built in Go
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [BuoyantIO/http-max-rps](https://github.com/BuoyantIO/http-max-rps) - A tool for finding the max RPS of an HTTP server or intermediary.
 - [neticdk/db-operator](https://github.com/neticdk/db-operator) - The DB Operator creates databases and make them available in the cluster via Custom Resource.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems
@@ -843,6 +854,7 @@
 
 ## HTML 
 
+- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
 - [go-kit/go-kit.github.io](https://github.com/go-kit/go-kit.github.io) - The gokit.io website.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [TomDeneire/neovimmm](https://github.com/TomDeneire/neovimmm) - GitHub's 1000 top Neovim repositories
@@ -883,6 +895,7 @@
 
 ## Haskell 
 
+- [Zoetermeer/latro](https://github.com/Zoetermeer/latro) - A simple, general-purpose functional programming language
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [wellposed/numerical](https://github.com/wellposed/numerical) - Numerical is the core library for Numerical Haskell
 - [bitemyapp/open-haskell](https://github.com/bitemyapp/open-haskell) - Community edited and directed course based on Spring '13 cis194.
@@ -1077,6 +1090,7 @@
 
 ## JavaScript 
 
+- [thoughtbot/administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
 - [basecamp/lexxy](https://github.com/basecamp/lexxy) - 
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
@@ -1447,6 +1461,10 @@
 
 ## Others 
 
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+- [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
+- [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua
+- [jarulraj/databaseology](https://github.com/jarulraj/databaseology) - Collection of Papers On Database Management Systems
 - [MikaelElkiaer/flux-twr](https://github.com/MikaelElkiaer/flux-twr) - FluxCD for home server
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
@@ -1564,6 +1582,13 @@
 
 ## Python 
 
+- [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
+- [gregs1104/pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard
+- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+- [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
+- [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [uber/h3-py](https://github.com/uber/h3-py) - Python bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
@@ -1760,6 +1785,8 @@
 
 ## Ruby 
 
+- [travisjeffery/timecop](https://github.com/travisjeffery/timecop) - A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateT
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) - A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
 - [typecraft-dev/the-life-planner](https://github.com/typecraft-dev/the-life-planner) - The life task planner. A Rails 8 masterpiece
 - [basecamp/mission_control-jobs](https://github.com/basecamp/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs
@@ -1795,6 +1822,13 @@
 
 ## Rust 
 
+- [posix4e/rpgffi](https://github.com/posix4e/rpgffi) - R(Rust) PG(Postgresql) FFI (Foreign Function Interface)
+- [posix4e/rust-metrics](https://github.com/posix4e/rust-metrics) - Multi reporter metrics library (carbon, graphite, postgresql, prometheus)
+- [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
+- [schets/multiqueue](https://github.com/schets/multiqueue) - A fast mpmc queue with broadcast capabilities
+- [danburkert/wal](https://github.com/danburkert/wal) - Write Ahead Logging for Rust
+- [softprops/envy](https://github.com/softprops/envy) - deserialize env vars into typesafe structs with rust
+- [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [ethersync/ethersync](https://github.com/ethersync/ethersync) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
@@ -2103,6 +2137,7 @@
 
 ## Shell 
 
+- [mobtitude/docker-vpn-pptp](https://github.com/mobtitude/docker-vpn-pptp) - Simple VPN (PPTP) server in Docker
 - [MikaelElkiaer/dotfiles](https://github.com/MikaelElkiaer/dotfiles) - 
 - [endeavouros-team/welcome](https://github.com/endeavouros-team/welcome) - Source code for the Welcome app
 - [typecraft-dev/shmux](https://github.com/typecraft-dev/shmux) - the shell-script tmux management you didn't know you needed. baby
