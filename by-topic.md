@@ -3453,7 +3453,7 @@
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
-- [ciaplant/inclusive-software-license](https://github.com/ciaplant/inclusive-software-license) - 
+- [dollsnatch/inclusive-software-license](https://github.com/dollsnatch/inclusive-software-license) - 
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [catatsuy/purl](https://github.com/catatsuy/purl) - Streamlining Text Processing
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
