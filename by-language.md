@@ -673,7 +673,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [omerxx/go-blocksite](https://github.com/omerxx/go-blocksite) - Block shitty internet blackholes, focus.
 - [cloudworkz/kube-eagle](https://github.com/cloudworkz/kube-eagle) - A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
-- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 4.0+. Producing, consuming, transacting, administrating, etc.
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.1+. Producing, consuming, transacting, administrating, etc.
 - [twmb/tlscfg](https://github.com/twmb/tlscfg) - Easy *tls.Config initialization for Go
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
@@ -1497,7 +1497,7 @@
 - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
 - [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
-- [ciaplant/inclusive-software-license](https://github.com/ciaplant/inclusive-software-license) - 
+- [dollsnatch/inclusive-software-license](https://github.com/dollsnatch/inclusive-software-license) - 
 - [skickar/CatGotYourPassword](https://github.com/skickar/CatGotYourPassword) - Repo for Missoula class
 - [MacLemon/CongressChecklist](https://github.com/MacLemon/CongressChecklist) - A list of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
