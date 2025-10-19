@@ -388,6 +388,7 @@
 
 ## Go 
 
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [grafana/dskit](https://github.com/grafana/dskit) - Distributed systems kit
 - [grafana/Kost](https://github.com/grafana/Kost) - K8s Cost Calculator that provides estimated reports for workloads running in Kubernetes.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
@@ -1036,6 +1037,7 @@
 
 ## Java 
 
+- [apple/batch-processing-gateway](https://github.com/apple/batch-processing-gateway) - The gateway component to make Spark on K8s much easier for Spark users.
 - [uber/simple-store](https://github.com/uber/simple-store) - Simple yet performant asynchronous file storage for Android
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [DBCDK/pg-queue](https://github.com/DBCDK/pg-queue) - Database based queue system
@@ -1471,6 +1473,7 @@
 
 ## Others 
 
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 - [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua
@@ -1797,6 +1800,7 @@
 
 ## Ruby 
 
+- [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 - [mislav/will_paginate](https://github.com/mislav/will_paginate) - Pagination library for Rails and other Ruby applications
 - [basecamp/concerning](https://github.com/basecamp/concerning) - Bite-sized separation of concerns
 - [basecamp/sshkit](https://github.com/basecamp/sshkit) - A toolkit for deploying code and assets to servers in a repeatable, testable, reliable way.
@@ -1840,6 +1844,7 @@
 
 ## Rust 
 
+- [kali/hue.rs](https://github.com/kali/hue.rs) - Rust library for Philips Hue lights
 - [posix4e/rpgffi](https://github.com/posix4e/rpgffi) - R(Rust) PG(Postgresql) FFI (Foreign Function Interface)
 - [posix4e/rust-metrics](https://github.com/posix4e/rust-metrics) - Multi reporter metrics library (carbon, graphite, postgresql, prometheus)
 - [libpnet/libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
@@ -2491,6 +2496,7 @@
 
 ## Vue 
 
+- [sihaelov/moceen](https://github.com/sihaelov/moceen) - Create beautiful screenshots with device mockups
 - [uncenter/json-to-nix](https://github.com/uncenter/json-to-nix) - 🧮 A web app to quickly convert JSON to Nix values.
 - [fireship-io/vue-firebase-walkie-talkie](https://github.com/fireship-io/vue-firebase-walkie-talkie) - Build a walkie-talkie style chat app with Vue & Firebase
 - [go-vikunja/frontend](https://github.com/go-vikunja/frontend) - Mirror of vikunja from https://code.vikunja.io/frontend
