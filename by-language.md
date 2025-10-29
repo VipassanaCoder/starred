@@ -1651,7 +1651,7 @@
 - [grafana/loki-fundamentals](https://github.com/grafana/loki-fundamentals) - Tutorial repository for Loki fundamentals
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [DBCDK/build-env](https://github.com/DBCDK/build-env) - 
