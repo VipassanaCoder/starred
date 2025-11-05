@@ -3700,7 +3700,7 @@
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
 - [colis-anr/colis-language](https://github.com/colis-anr/colis-language) - A symbolic analyser for shell scripts.
 - [rhysd/vim-rustpeg](https://github.com/rhysd/vim-rustpeg) - Vim filetype plugin for rust-peg
-- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source ledger for fintechs
+- [formancehq/ledger](https://github.com/formancehq/ledger) - The programmable open source core ledger for fintech
 - [ledger-rs/ledger-rs-lib](https://github.com/ledger-rs/ledger-rs-lib) - Ledger-cli implementation in Rust
 - [polytope/async_test](https://github.com/polytope/async_test) - A library that allows for completely async tests, where the test does not end, until the finisher is called.
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
