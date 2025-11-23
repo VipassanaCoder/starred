@@ -2482,7 +2482,7 @@
 - [mrnugget/vimconfig](https://github.com/mrnugget/vimconfig) - My ~/.vim folder
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
-- [mahancoder/.dotfiles](https://github.com/mahancoder/.dotfiles) - My Arch Linux Dot Files
+- [mahanla/.dotfiles](https://github.com/mahanla/.dotfiles) - My Arch Linux Dot Files
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch) - dispatch.vim: Asynchronous build and test dispatcher
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
