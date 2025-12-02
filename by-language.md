@@ -896,6 +896,7 @@
 ## Handlebars 
 
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 ## Haskell 
 
@@ -1146,7 +1147,6 @@
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [0xcra5hs/nodejs-saga-microservice](https://github.com/0xcra5hs/nodejs-saga-microservice) - Nodejs Microservices implemented in Saga Pattern
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -2391,7 +2391,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
