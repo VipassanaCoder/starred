@@ -198,6 +198,7 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
+- [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -1038,7 +1039,7 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1636,7 +1637,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [vladimirvivien/go-networking](https://github.com/vladimirvivien/go-networking) - Code sample for Learning Network Programming with Go
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - Source code repository for my book "Learning Go Programming"
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [allaboutapps/go-starter](https://github.com/allaboutapps/go-starter) - An opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers by allaboutapps.
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
 - [go-crypt/crypt](https://github.com/go-crypt/crypt) - Convenient Password Hashing Library in Go
@@ -2866,6 +2867,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -3392,7 +3394,7 @@
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [jbguerraz/gitlab-logger](https://github.com/jbguerraz/gitlab-logger) - A unified logger for gitlab
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [Shopify/ghostferry](https://github.com/Shopify/ghostferry) - The swiss army knife of live data migrations
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
@@ -3466,7 +3468,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
-- [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
+- [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build LLM Apps
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
@@ -3480,7 +3482,7 @@
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [remix-run/react-router-templates](https://github.com/remix-run/react-router-templates) - 
-- [tokenami/tokenami](https://github.com/tokenami/tokenami) - CSS-in-JS reinvented for portable, type-safe design systems. A modern approach to just-in-time CSS using atomic CSS variables—no bundler required.
+- [tokenami/tokenami](https://github.com/tokenami/tokenami) - CSS-in-JS reinvented for type-safe design systems. No bundler, no runtime injection, no class soup—just predictable styling powered by atomic CSS variables.
 - [fireship-io/167-flutter-geolocation-firestore](https://github.com/fireship-io/167-flutter-geolocation-firestore) - Episode 167 - Realtime Geolocation with Flutter, Google Maps, and Firestore
 - [fireship-io/firechat-react-native](https://github.com/fireship-io/firechat-react-native) - Firebase chat app built with React Native
 - [fireship-io/api-monetization-demo](https://github.com/fireship-io/api-monetization-demo) - Build a Monetized API with Stripe Metered Billing
@@ -4147,6 +4149,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -4381,6 +4384,15 @@
 ## r 
 
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+
+## rag 
+
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
 
 ## rails 
 
@@ -4902,7 +4914,7 @@
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [allaboutapps/go-starter](https://github.com/allaboutapps/go-starter) - An opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers by allaboutapps.
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
@@ -4938,7 +4950,7 @@
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 
