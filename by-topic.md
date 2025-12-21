@@ -148,6 +148,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monero](#monero)
@@ -2805,6 +2806,21 @@
 ## maven 
 
 - [dansomething/coc-groovy](https://github.com/dansomething/coc-groovy) - Groovy language extension for coc.nvim
+
+## microservices 
+
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
+- [caplogic/Mappedbus](https://github.com/caplogic/Mappedbus) - Mappedbus is a low latency message bus for Java microservices utilizing shared memory. http://mappedbus.io
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+- [motiv-labs/janus](https://github.com/motiv-labs/janus) - An API Gateway written in Go
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
+- [khandelwal-arpit/kubernetes-starterkit](https://github.com/khandelwal-arpit/kubernetes-starterkit) - A launchpad for developers to learn Kubernetes from scratch and deployment of microservices on a kubernetes cluster.
+- [mmorejon/microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb) - Example of Microservices in Go with Docker, Kubernetes and MongoDB
 
 ## microsoft 
 
