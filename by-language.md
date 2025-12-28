@@ -1227,7 +1227,7 @@
 - [manzanit0/k8s-whisper.nvim](https://github.com/manzanit0/k8s-whisper.nvim) - Kubernetes CRD autocomplete
 - [MikaelElkiaer/nvim-config](https://github.com/MikaelElkiaer/nvim-config) - My personal Neovim config
 - [knl/rh](https://github.com/knl/rh) - A hierarchy aware `cd` command for easier navigation to your repositories
-- [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
+- [PascalCaseFan/debugmaster.nvim](https://github.com/PascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
 - [mistweaverco/ndoo.nvim](https://github.com/mistweaverco/ndoo.nvim) - 🐙 ndoo.nvim - simple utils for working with Github, Bitbucket and GitLab inside Neovim.
@@ -1791,7 +1791,7 @@
 
 ## Rocq Prover 
 
-- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs 🦀 to make super safe applications! ✈️ 🚀 ⚕️ 🏦
+- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains.
 
 ## Ruby 
 
