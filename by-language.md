@@ -78,6 +78,7 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Astro 
@@ -510,7 +511,7 @@
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team.
 - [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [oxidecomputer/rancher-machine-driver-oxide](https://github.com/oxidecomputer/rancher-machine-driver-oxide) - This repository contains the Rancher Node Driver for provisioning hosts on Oxide that can be used by Rancher to deploy Kubernetes clusters.
+- [oxidecomputer/rancher-machine-driver-oxide](https://github.com/oxidecomputer/rancher-machine-driver-oxide) - Rancher machine driver for Oxide.
 - [dockersamples/genai-model-runner-metrics](https://github.com/dockersamples/genai-model-runner-metrics) - A GenAI Chatbot Demo with Docker Model Runner and Observability Metrics
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [DBCDK/kube-login](https://github.com/DBCDK/kube-login) - Simple login app based on DEX example-app
@@ -1201,7 +1202,6 @@
 ## Just 
 
 - [catppuccin/fuzzel](https://github.com/catppuccin/fuzzel) - 🚀 Soothing pastel theme for Fuzzel
-- [blackjid/home-ops](https://github.com/blackjid/home-ops) - Homelab GitOps repository. Cluster definition state via code.
 - [fpco/alpine-haskell-stack](https://github.com/fpco/alpine-haskell-stack) - 
 
 ## Kotlin 
@@ -2500,6 +2500,10 @@
 - [hapijs/hapi.dev](https://github.com/hapijs/hapi.dev) - The hapi.dev developer portal
 - [themeselection/materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩
 - [khandelwal-arpit/kubernetes-starterkit](https://github.com/khandelwal-arpit/kubernetes-starterkit) - A launchpad for developers to learn Kubernetes from scratch and deployment of microservices on a kubernetes cluster.
+
+## YAML 
+
+- [blackjid/home-ops](https://github.com/blackjid/home-ops) - Homelab GitOps repository. Cluster definition state via code.
 
 ## Zig 
 
