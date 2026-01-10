@@ -1653,7 +1653,7 @@
 - [grafana/loki-fundamentals](https://github.com/grafana/loki-fundamentals) - Tutorial repository for Loki fundamentals
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [DBCDK/build-env](https://github.com/DBCDK/build-env) - 
@@ -1662,6 +1662,7 @@
 - [open-webui/bot](https://github.com/open-webui/bot) - beep boop 🤖 (experimental)
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
@@ -2257,7 +2258,6 @@
 ## Svelte 
 
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial) - A basic realtime chat app with Pocketbase and Svelte
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 
