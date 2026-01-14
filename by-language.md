@@ -778,7 +778,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
 - [mdomke/git-semver](https://github.com/mdomke/git-semver) - Semantic Versioning with git tags
 - [spf13/pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
