@@ -1878,7 +1878,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - This service allows you to use your locally installed fonts on figma.com.
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
-- [rari-build/rari](https://github.com/rari-build/rari) - Runtime Accelerated Rendering Infrastructure (Rari): High-performance React Server Components framework powered by a Rust runtime, delivering 12x faster P99 latency and 10.5x higher throughput than Ne
+- [rari-build/rari](https://github.com/rari-build/rari) - Rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14x faster P99 latency (&lt; 2ms vs 28ms) and 12x higher throughput (21,263 vs 1,760 req/sec) than Next.j
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [luisnquin/battery-notifier](https://github.com/luisnquin/battery-notifier) - The missing part of your WM, a customizable battery notifier for Linux (?Lightweight battery daemon)
