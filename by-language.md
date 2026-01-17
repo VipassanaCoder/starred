@@ -26,6 +26,8 @@
 - [Erlang](#erlang)
 - [F#](#f#)
 - [Fennel](#fennel)
+- [Fluent](#fluent)
+- [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -380,6 +382,14 @@
 ## Fennel 
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
+
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
+## GLSL 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -1132,7 +1142,6 @@
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [SaaSyEth/eth-owl](https://github.com/SaaSyEth/eth-owl) - Watch any Ethereum address with 🦉 eth-owl to receive real-time callbaks to your webhooks (or emails) for each incoming/outgoing transaction
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -1245,6 +1254,7 @@
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) - Practise typing in Neovim
+- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) - MIRROR of: https://codeberg.org/mfussenegger/nvim-jdtls
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
 - [joeveiga/ng.nvim](https://github.com/joeveiga/ng.nvim) - Angular language server extra functionality for Neovim LSP
@@ -1399,7 +1409,6 @@
 - [nix-community/disko-templates](https://github.com/nix-community/disko-templates) - Best practice templates for disko - maintainer=@lassulus
 - [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@GaetanLepage, @willruggiano]
 - [Evertras/simple-homemanager](https://github.com/Evertras/simple-homemanager) - A practical guide to getting started with home manager with flakes and all that 2024 goodness.
-- [kclejeune/system](https://github.com/kclejeune/system) - Declarative system configurations using nixOS, nix-darwin, and home-manager
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
@@ -2229,7 +2238,6 @@
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [glepnir/dotfiles](https://github.com/glepnir/dotfiles) - my personal dotfiles on mac or arch
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [Dockershelf/dockershelf](https://github.com/Dockershelf/dockershelf) - A repository containing useful, lightweight and reliable dockerfiles.
 - [mrnugget/dotfiles](https://github.com/mrnugget/dotfiles) - My dotfiles, including configuration for zsh, tmux, psql
 - [RubenVerborgh/dotfiles](https://github.com/RubenVerborgh/dotfiles) - Ruben Verborgh's dotfiles
