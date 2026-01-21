@@ -2468,7 +2468,7 @@
 
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
-- [focustimerhq/focus-timer](https://github.com/focustimerhq/focus-timer) - A time management utility for GNOME based on the pomodoro technique!
+- [focustimerhq/FocusTimer](https://github.com/focustimerhq/FocusTimer) - A time management utility for GNOME based on the pomodoro technique!
 
 ## Vim Script 
 
