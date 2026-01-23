@@ -288,7 +288,6 @@
 
 ## CUE 
 
-- [grafana/grafana-foundation-sdk](https://github.com/grafana/grafana-foundation-sdk) - A set of tools, types and libraries for building and manipulating Grafana objects.
 - [mmorejon/microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb) - Example of Microservices in Go with Docker, Kubernetes and MongoDB
 
 ## Clojure 
@@ -853,6 +852,7 @@
 ## Go Template 
 
 - [neticdk/k8s-oaas-observability](https://github.com/neticdk/k8s-oaas-observability) - Observability (logs, metrics, and traces) stack for Kubernetes.
+- [grafana/grafana-foundation-sdk](https://github.com/grafana/grafana-foundation-sdk) - A set of tools, types and libraries for building and manipulating Grafana objects.
 
 ## Groovy 
 
@@ -1802,7 +1802,7 @@
 
 ## Rocq Prover 
 
-- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains. 🇬🇱
+- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains.
 
 ## Ruby 
 
