@@ -398,7 +398,7 @@
 - [thejerf/suture](https://github.com/thejerf/suture) - Supervisor trees for Go.
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [bdeggleston/kickboxer](https://github.com/bdeggleston/kickboxer) - A clustered, masterless redis clone, built in Go
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [BuoyantIO/http-max-rps](https://github.com/BuoyantIO/http-max-rps) - A tool for finding the max RPS of an HTTP server or intermediary.
 - [neticdk/db-operator](https://github.com/neticdk/db-operator) - The DB Operator creates databases and make them available in the cluster via Custom Resource.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
