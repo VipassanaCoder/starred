@@ -346,7 +346,7 @@
 ## Elixir 
 
 - [Hostdon/akkoma](https://github.com/Hostdon/akkoma) - fork of https://akkoma.dev/AkkomaGang/akkoma/
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [enter-haken/brain](https://github.com/enter-haken/brain) - create a knowledge graph from markdown documents
