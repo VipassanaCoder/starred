@@ -3247,7 +3247,7 @@
 - [uber/phonenumbers](https://github.com/uber/phonenumbers) - Uber Fork - for company PR's back upstream
 - [uber/simple-store](https://github.com/uber/simple-store) - Simple yet performant asynchronous file storage for Android
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
-- [basecamp/lexxy](https://github.com/basecamp/lexxy) - 
+- [basecamp/lexxy](https://github.com/basecamp/lexxy) - A modern rich text editor for Rails.
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
