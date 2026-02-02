@@ -466,7 +466,7 @@
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics
 - [andreasgerstmayr/bpftrace_exporter](https://github.com/andreasgerstmayr/bpftrace_exporter) - Export variables from bpftrace scripts as metrics.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [koding/kite](https://github.com/koding/kite) - Micro-service framework in Go
 - [ardanlabs/python-go](https://github.com/ardanlabs/python-go) - Training material on how to leverage Python and Go together to solve different problems.
 - [ardanlabs/service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
