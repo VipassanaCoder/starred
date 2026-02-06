@@ -129,7 +129,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [gierens/ranges](https://github.com/gierens/ranges) - Command line program to extract ranges from various types of lists, e.g. integer numbers, dates, IP and MAC addresses.
 - [agl/ctgrind](https://github.com/agl/ctgrind) - Checking that functions are constant time with Valgrind
 - [kristapsdz/kcaldav](https://github.com/kristapsdz/kcaldav) - a simple, safe, and minimal CalDAV server
@@ -852,7 +852,6 @@
 ## Go Template 
 
 - [neticdk/k8s-oaas-observability](https://github.com/neticdk/k8s-oaas-observability) - Observability (logs, metrics, and traces) stack for Kubernetes.
-- [grafana/grafana-foundation-sdk](https://github.com/grafana/grafana-foundation-sdk) - A set of tools, types and libraries for building and manipulating Grafana objects.
 - [trifork/cheetah-charts](https://github.com/trifork/cheetah-charts) - Collection of helm charts used be the Cheetah Data Platform
 
 ## Groovy 
@@ -1569,6 +1568,7 @@
 ## PHP 
 
 - [drupal/drupal](https://github.com/drupal/drupal) - Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.
+- [grafana/grafana-foundation-sdk](https://github.com/grafana/grafana-foundation-sdk) - A set of tools, types and libraries for building and manipulating Grafana objects.
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -1889,7 +1889,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - This service allows you to use your locally installed fonts on figma.com.
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 7.5x faster response times (0.35ms vs 2.64ms) and 8.7x higher throughput (14,085 vs 1,624 req/sec) than N
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.1x faster response times (0.43ms vs 3.92ms) and 46.5x higher throughput (74,662 vs 1,605 req/sec) than 
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [luisnquin/battery-notifier](https://github.com/luisnquin/battery-notifier) - The missing part of your WM, a customizable battery notifier for Linux (?Lightweight battery daemon)
