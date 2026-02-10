@@ -106,6 +106,7 @@
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
+- [josefbacik/systing](https://github.com/josefbacik/systing) - A libbpf based tracer to help figure out what an application is doing.
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [jyn514/threaded-server](https://github.com/jyn514/threaded-server) - A stupid simple server with threading
@@ -752,6 +753,7 @@
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [vladimirvivien/go-tar](https://github.com/vladimirvivien/go-tar) - Examples using archive/tar compress/gz Go packages
 - [vladimirvivien/go-networking](https://github.com/vladimirvivien/go-networking) - Code sample for Learning Network Programming with Go
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - Source code repository for my book "Learning Go Programming"
@@ -1396,7 +1398,7 @@
 - [srhb/treefmt-symlink-broken](https://github.com/srhb/treefmt-symlink-broken) - https://github.com/numtide/treefmt/issues/221
 - [Niols/nixos-config](https://github.com/Niols/nixos-config) - Niols's NixOS configuration/s
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
-- [Vortriz/awesome-niri](https://github.com/Vortriz/awesome-niri) - An awesome list for niri related projects
+- [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz]
 - [GTrunSec/nix-devops-cheatsheet](https://github.com/GTrunSec/nix-devops-cheatsheet) - nix flake (preset) templates for the production of devops
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
@@ -1547,7 +1549,6 @@
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [j-delaney/easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [shadinua/demo-grafana-loki-prometheus](https://github.com/shadinua/demo-grafana-loki-prometheus) - Simple playground to try together wonderful combination of Grafana 6 + Loki + Prometheus.
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
@@ -1803,7 +1804,7 @@
 
 ## Rocq Prover 
 
-- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains.
+- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safer applications.
 
 ## Ruby 
 
@@ -1869,7 +1870,6 @@
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [josefbacik/systing](https://github.com/josefbacik/systing) - A libbpf based tracer to help figure out what an application is doing.
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
 - [vv9k/pkger](https://github.com/vv9k/pkger) - Automate building RPMs and DEBs as well as other artifacts on multiple Linux distributions, versions and architectures using Docker/Podman
@@ -1917,7 +1917,7 @@
 - [tanu-rs/tanu](https://github.com/tanu-rs/tanu) - High-performance, async-friendly and ergonomic WebAPI testing framework for Rust
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [antithesishq/antithesis-sdk-rust](https://github.com/antithesishq/antithesis-sdk-rust) - Antithesis SDK for Rust
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [istio/ztunnel](https://github.com/istio/ztunnel) - The `ztunnel` component of ambient mesh
