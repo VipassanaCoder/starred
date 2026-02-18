@@ -2484,6 +2484,7 @@
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Framework for delivering SaaS-style, namespace-isolated application instances on Kubernetes without writing custom operators.
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -4000,7 +4001,6 @@
 - [shadinua/demo-grafana-loki-prometheus](https://github.com/shadinua/demo-grafana-loki-prometheus) - Simple playground to try together wonderful combination of Grafana 6 + Loki + Prometheus.
 - [commercialhaskell/commercialhaskell](https://github.com/commercialhaskell/commercialhaskell) - A special interest group for companies and individuals interested in commercial usage of Haskell
 - [shiguredo/suzu](https://github.com/shiguredo/suzu) - Audio Streaming Gateway Suzu
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for multi-instance multi-tenancy
 - [mdomke/git-semver](https://github.com/mdomke/git-semver) - Semantic Versioning with git tags
 - [spf13/pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
