@@ -775,7 +775,7 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [shiguredo/suzu](https://github.com/shiguredo/suzu) - Audio Streaming Gateway Suzu
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for multi-instance multi-tenancy
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Framework for delivering SaaS-style, namespace-isolated application instances on Kubernetes without writing custom operators.
 - [labstack/echox](https://github.com/labstack/echox) - Echo cookbook and website
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
