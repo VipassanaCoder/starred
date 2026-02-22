@@ -2938,6 +2938,7 @@
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [mistweaverco/ndoo.nvim](https://github.com/mistweaverco/ndoo.nvim) - 🐙 ndoo.nvim - simple utils for working with Github, Bitbucket and GitLab inside Neovim.
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [TomDeneire/neovimmm](https://github.com/TomDeneire/neovimmm) - GitHub's Neovim Repositories
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
@@ -3332,7 +3333,7 @@
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [NixySoftware/supermarket](https://github.com/NixySoftware/supermarket) - Rust client for supermarket APIs.
-- [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - This service allows you to use your locally installed fonts on figma.com.
+- [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - A lightweight local service that makes your locally installed fonts available on Figma.
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
@@ -3377,7 +3378,6 @@
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) - 
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap
-- [TomDeneire/neovimmm](https://github.com/TomDeneire/neovimmm) - GitHub's Top Neovim Repositories
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
