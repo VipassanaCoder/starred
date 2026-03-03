@@ -515,7 +515,7 @@
 - [containernetworking/plugins](https://github.com/containernetworking/plugins) - Some reference and example networking plugins, maintained by the CNI team.
 - [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [oxidecomputer/rancher-machine-driver-oxide](https://github.com/oxidecomputer/rancher-machine-driver-oxide) - Rancher machine driver for Oxide.
+- [oxidecomputer/rancher-machine-driver-oxide](https://github.com/oxidecomputer/rancher-machine-driver-oxide) - Oxide Rancher machine driver.
 - [dockersamples/genai-model-runner-metrics](https://github.com/dockersamples/genai-model-runner-metrics) - A GenAI Chatbot Demo with Docker Model Runner and Observability Metrics
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [DBCDK/kube-login](https://github.com/DBCDK/kube-login) - Simple login app based on DEX example-app
@@ -1656,7 +1656,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [napalm-automation/napalm](https://github.com/napalm-automation/napalm) - Network Automation and Programmability Abstraction Layer with Multivendor support
 - [antithesishq/etcd-test-composer](https://github.com/antithesishq/etcd-test-composer) - A reference for using Antithesis tooling when testing on the Antithesis platform.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [grafana/loki-fundamentals](https://github.com/grafana/loki-fundamentals) - Tutorial repository for Loki fundamentals
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -1816,7 +1816,7 @@
 - [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) - A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
 - [typecraft-dev/the-life-planner](https://github.com/typecraft-dev/the-life-planner) - The life task planner. A Rails 8 masterpiece
 - [basecamp/mission_control-jobs](https://github.com/basecamp/mission_control-jobs) - Dashboard and Active Job extensions to operate and troubleshoot background jobs
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs in Ruby.
 - [Shipyrd/shipyrd](https://github.com/Shipyrd/shipyrd) - The deployment dashboard for Kamal
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
