@@ -781,7 +781,7 @@
 - [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [go-woo/protoc-gen-echo](https://github.com/go-woo/protoc-gen-echo) - Generate Echo backend code
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
+- [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
