@@ -167,7 +167,7 @@
 - [antirez/rax](https://github.com/antirez/rax) - A radix tree implementation in ANSI C
 - [antirez/yaku-ns](https://github.com/antirez/yaku-ns) - a DNS server I wrote 10 years ago. Here for historical reasons
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
+- [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -435,7 +435,7 @@
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pla
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [mapogolions/genserver](https://github.com/mapogolions/genserver) - Gen Server
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
@@ -714,7 +714,7 @@
 - [wvanlint/twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
 - [cdarwin/go-koans](https://github.com/cdarwin/go-koans) - koans for go
 - [lukaszbudnik/yosoy](https://github.com/lukaszbudnik/yosoy) - yosoy is an HTTP service for stubbing and prototyping distributed applications.
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) - Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go. #golang #jwt #jws #jwk #jwe
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
@@ -852,6 +852,7 @@
 ## Go Template 
 
 - [neticdk/k8s-oaas-observability](https://github.com/neticdk/k8s-oaas-observability) - Observability (logs, metrics, and traces) stack for Kubernetes.
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [trifork/cheetah-charts](https://github.com/trifork/cheetah-charts) - Collection of helm charts used be the Cheetah Data Platform
 
 ## Groovy 
@@ -2198,7 +2199,6 @@
 - [threema-ch/webrtc-android](https://github.com/threema-ch/webrtc-android) - WebRTC builds for Android
 - [threema-ch/webrtc-build-docker](https://github.com/threema-ch/webrtc-build-docker) - Dockerfile to build the WebRTC PeerConnection for Android using the new GN based build system.
 - [codecrafters-io/build-your-own-redis](https://github.com/codecrafters-io/build-your-own-redis) - Definition for the redis challenge.
-- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [bike-barn/hermit](https://github.com/bike-barn/hermit) - A home directory configuration management assistant
 - [nsmith5/kubernetes-resources](https://github.com/nsmith5/kubernetes-resources) - 
