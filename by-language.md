@@ -375,7 +375,7 @@
 ## F# # 
 
 - [haf/expecto](https://github.com/haf/expecto) - A smooth testing lib for F#. APIs made for humans! Strong testing methodologies for everyone!
-- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
+- [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 
 ## Fennel 
 
