@@ -581,7 +581,7 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -972,7 +972,7 @@
 - [Clancey/simple_auth](https://github.com/Clancey/simple_auth) - The Simplest way to Authenticate in Flutter
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 - [aau-giraf/api_client](https://github.com/aau-giraf/api_client) - API client for Flutter to communicate with the web-api
-- [aau-giraf/weekplanner](https://github.com/aau-giraf/weekplanner) - Main repository of the Weekplanner tablet application
+- [aau-giraf/weekplanner-OLDUI](https://github.com/aau-giraf/weekplanner-OLDUI) - Main repository of the Weekplanner tablet application
 - [thlorenz/rid-examples](https://github.com/thlorenz/rid-examples) - Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1419,7 +1419,7 @@
 - [NimaPayande/Countdown-Timer-Flutter](https://github.com/NimaPayande/Countdown-Timer-Flutter) - 
 - [Clancey/simple_auth](https://github.com/Clancey/simple_auth) - The Simplest way to Authenticate in Flutter
 - [aau-giraf/api_client](https://github.com/aau-giraf/api_client) - API client for Flutter to communicate with the web-api
-- [aau-giraf/weekplanner](https://github.com/aau-giraf/weekplanner) - Main repository of the Weekplanner tablet application
+- [aau-giraf/weekplanner-OLDUI](https://github.com/aau-giraf/weekplanner-OLDUI) - Main repository of the Weekplanner tablet application
 - [thlorenz/rid-examples](https://github.com/thlorenz/rid-examples) - Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.
 - [acterglobal/a3](https://github.com/acterglobal/a3) - Community Communication and casual social organising platform (App)
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
@@ -2285,6 +2285,7 @@
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [khandelwal-arpit/springboot-starterkit](https://github.com/khandelwal-arpit/springboot-starterkit) - Starter Kit for Spring Boot based (REST APIs and WebMVC) micro services.
 
 ## javascript 
@@ -2521,6 +2522,7 @@
 
 ## laravel 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## latex 
@@ -4678,7 +4680,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [threema-ch/push-relay](https://github.com/threema-ch/push-relay) - Relay service for Threema Web push notifications.
 - [skurhse/fisher](https://github.com/skurhse/fisher) - passages for the rust/go learner
 - [redox-os/kernel](https://github.com/redox-os/kernel) - Mirror of https://gitlab.redox-os.org/redox-os/kernel
@@ -4752,7 +4754,7 @@
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 
 ## scikit-learn 
 
@@ -4872,7 +4874,7 @@
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [System64fumo/sysshell](https://github.com/System64fumo/sysshell) - Generic shell for wayland
@@ -5533,7 +5535,7 @@
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
