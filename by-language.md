@@ -317,7 +317,7 @@
 - [Clancey/simple_auth](https://github.com/Clancey/simple_auth) - The Simplest way to Authenticate in Flutter
 - [aau-giraf/api_client](https://github.com/aau-giraf/api_client) - API client for Flutter to communicate with the web-api
 - [polytope/async_test](https://github.com/polytope/async_test) - A library that allows for completely async tests, where the test does not end, until the finisher is called.
-- [aau-giraf/weekplanner](https://github.com/aau-giraf/weekplanner) - Main repository of the Weekplanner tablet application
+- [aau-giraf/weekplanner-OLDUI](https://github.com/aau-giraf/weekplanner-OLDUI) - Main repository of the Weekplanner tablet application
 - [thlorenz/rid-examples](https://github.com/thlorenz/rid-examples) - Examples showing how to use Rid in order to build Dart/Flutter apps integrated with Rust.
 - [acterglobal/a3](https://github.com/acterglobal/a3) - Community Communication and casual social organising platform (App)
 - [Phoenix-Genius/Best-Flutter-UI-Templates](https://github.com/Phoenix-Genius/Best-Flutter-UI-Templates) - 
@@ -1098,7 +1098,7 @@
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - [Archived old experiment] IPFS and libp2p on Mobile, with Gomobile. See https://docs.ipfs.tech/concepts/ipfs-implementations/ instead.
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [apache/jena](https://github.com/apache/jena) - Apache Jena, A free and open source Java framework for building Semantic Web and Linked Data applications.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 
