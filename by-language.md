@@ -26,7 +26,6 @@
 - [Erlang](#erlang)
 - [F#](#f#)
 - [Fennel](#fennel)
-- [GLSL](#glsl)
 - [Go](#go)
 - [Go Template](#go-template)
 - [Groovy](#groovy)
@@ -380,10 +379,6 @@
 ## Fennel 
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
-
-## GLSL 
-
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -2236,6 +2231,7 @@
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [glepnir/dotfiles](https://github.com/glepnir/dotfiles) - my personal dotfiles on mac or arch
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [Dockershelf/dockershelf](https://github.com/Dockershelf/dockershelf) - A repository containing useful, lightweight and reliable dockerfiles.
 - [mrnugget/dotfiles](https://github.com/mrnugget/dotfiles) - My dotfiles, including configuration for zsh, tmux, psql
 - [RubenVerborgh/dotfiles](https://github.com/RubenVerborgh/dotfiles) - Ruben Verborgh's dotfiles
