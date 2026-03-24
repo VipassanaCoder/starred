@@ -1339,7 +1339,6 @@
 ## MDX 
 
 - [element-hq/compound](https://github.com/element-hq/compound) - Element's design system
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 
 ## Makefile 
@@ -2106,6 +2105,7 @@
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [ThePrimeagen/htmx-class-template](https://github.com/ThePrimeagen/htmx-class-template) - The starter template with server in go or rust
