@@ -1334,7 +1334,7 @@
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) - Train yourself with vim motions and make your own train tracks :)
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - minimal macOS development setup with ghostty, tmux, nvim, fish and homebrew
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - minimal macOS development setup: fish, homebew, cmux, neovim, worktrunk
 
 ## MDX 
 
@@ -1873,7 +1873,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux) - A lightweight local service that makes your locally installed fonts available on Figma.
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 8.7x faster response times (0.14ms vs 1.22ms) and 44.9x higher throughput (67,208 vs 1,496 req/sec) than 
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.8x faster response times (0.08ms vs 0.78ms) and 47.7x higher throughput (71,404 vs 1,497 req/sec) than 
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [luisnquin/battery-notifier](https://github.com/luisnquin/battery-notifier) - The missing part of your WM, a customizable battery notifier for Linux (?Lightweight battery daemon)
