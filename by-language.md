@@ -861,6 +861,7 @@
 ## HTML 
 
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
+- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 - [go-kit/go-kit.github.io](https://github.com/go-kit/go-kit.github.io) - The gokit.io website.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [chantastic/reactpatterns](https://github.com/chantastic/reactpatterns) - Patterns for React Developers
@@ -1471,7 +1472,6 @@
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 - [solso/insomnia](https://github.com/solso/insomnia) - Pause/resume traffic to your API (or Backend) using Nginx and Lua
 - [jarulraj/databaseology](https://github.com/jarulraj/databaseology) - Collection of Papers On Database Management Systems
-- [MikaelElkiaer/flux-twr](https://github.com/MikaelElkiaer/flux-twr) - FluxCD for home server
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
@@ -1562,7 +1562,6 @@
 
 ## PLpgSQL 
 
-- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 - [sivers/srs](https://github.com/sivers/srs) - Spaced Repetition in PostgreSQL functions
 
 ## Perl 
@@ -1880,7 +1879,7 @@
 - [purton-tech/barricade](https://github.com/purton-tech/barricade) - Quickly add user registration and logon to any application
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
 - [MAIF/yozefu](https://github.com/MAIF/yozefu) - An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.
 - [glide-wm/glide](https://github.com/glide-wm/glide) - A tiling window manager for macOS
@@ -2154,6 +2153,7 @@
 
 - [mobtitude/docker-vpn-pptp](https://github.com/mobtitude/docker-vpn-pptp) - Simple VPN (PPTP) server in Docker
 - [MikaelElkiaer/dotfiles](https://github.com/MikaelElkiaer/dotfiles) - 
+- [MikaelElkiaer/flux-twr](https://github.com/MikaelElkiaer/flux-twr) - FluxCD for home server
 - [endeavouros-team/welcome](https://github.com/endeavouros-team/welcome) - Source code for the Welcome app
 - [typecraft-dev/shmux](https://github.com/typecraft-dev/shmux) - the shell-script tmux management you didn't know you needed. baby
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
