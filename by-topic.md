@@ -35,6 +35,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -703,6 +704,11 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## claude-code 
+
+- [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) - MCP implementation of Claude Code capabilities and more
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 
 ## cli 
 
@@ -3397,7 +3403,7 @@
 - [nix-community/disko-templates](https://github.com/nix-community/disko-templates) - Best practice templates for disko - maintainer=@lassulus
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
 - [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs
-- [glide-wm/glide](https://github.com/glide-wm/glide) - A tiling window manager for macOS
+- [tmandry/glide](https://github.com/tmandry/glide) - A tiling window manager for macOS
 - [manna-harbour/qmk_firmware](https://github.com/manna-harbour/qmk_firmware) - See the "forkreadme" branch or the following link for a description of branches maintained in this fork.
 - [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) - 
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
