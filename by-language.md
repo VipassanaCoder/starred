@@ -866,7 +866,6 @@
 ## HTML 
 
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
-- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 - [go-kit/go-kit.github.io](https://github.com/go-kit/go-kit.github.io) - The gokit.io website.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [chantastic/reactpatterns](https://github.com/chantastic/reactpatterns) - Patterns for React Developers
@@ -1490,6 +1489,7 @@
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 - [dhh/hyprland-wiki](https://github.com/dhh/hyprland-wiki) - The Hyprland Wiki Pages, automatically synced with the website.
@@ -1568,6 +1568,7 @@
 
 ## PLpgSQL 
 
+- [sivers/sivers](https://github.com/sivers/sivers) - my database and the web apps that use it
 - [sivers/srs](https://github.com/sivers/srs) - Spaced Repetition in PostgreSQL functions
 
 ## Perl 
