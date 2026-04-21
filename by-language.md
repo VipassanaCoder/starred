@@ -1339,7 +1339,6 @@
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) - Train yourself with vim motions and make your own train tracks :)
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - minimal macOS development setup: fish, homebrew, ghostty, worktrunk, neovim, zed
 
 ## MDX 
 
@@ -2242,6 +2241,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - minimal macOS development setup: fish, homebrew, ghostty, worktrunk, neovim, zed
 
 ## Smarty 
 
