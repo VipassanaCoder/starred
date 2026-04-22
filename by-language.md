@@ -671,7 +671,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [omerxx/go-blocksite](https://github.com/omerxx/go-blocksite) - Block shitty internet blackholes, focus.
 - [cloudworkz/kube-eagle](https://github.com/cloudworkz/kube-eagle) - A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
-- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.1+. Producing, consuming, transacting, administrating, etc.
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc.
 - [twmb/tlscfg](https://github.com/twmb/tlscfg) - Easy *tls.Config initialization for Go
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
@@ -1497,7 +1497,6 @@
 - [PotHix/awesome-dactyl](https://github.com/PotHix/awesome-dactyl) - A curated list of dactyl related keyboard projects
 - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
 - [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
-- [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [dollsnatch/inclusive-software-license](https://github.com/dollsnatch/inclusive-software-license) - 
 - [skickar/CatGotYourPassword](https://github.com/skickar/CatGotYourPassword) - Repo for Missoula class
 - [MacLemon/CongressChecklist](https://github.com/MacLemon/CongressChecklist) - A list of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.
@@ -2178,6 +2177,7 @@
 - [k3d-io/k3d-demo](https://github.com/k3d-io/k3d-demo) - Demo of k3d: Tool to run k3s (Kubernetes) in Docker
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [z-shell/zsh-eza](https://github.com/z-shell/zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with eza-community/eza
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
