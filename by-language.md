@@ -2366,7 +2366,7 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
-- [opslane/opslane](https://github.com/opslane/opslane) - Run multiple Claude Code sessions in parallel
+- [opslane/opslane_old](https://github.com/opslane/opslane_old) - Run multiple Claude Code sessions in parallel
 - [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror) - An open source project for coffee enthusiasts.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
