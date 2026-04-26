@@ -1667,7 +1667,7 @@
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
-- [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Composable building blocks to build LLM Apps
+- [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Open GenAI Stack
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
@@ -2241,7 +2241,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - minimal macOS development setup: fish, homebrew, ghostty, worktrunk, neovim, zed
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI tooling
 
 ## Smarty 
 
