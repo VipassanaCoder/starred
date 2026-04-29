@@ -2197,7 +2197,6 @@
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [adamtulinius/direnv-k8s](https://github.com/adamtulinius/direnv-k8s) - direnv+zsh+k8s=&lt;3
 - [scylladb/scylla-monitoring](https://github.com/scylladb/scylla-monitoring) - Simple monitoring of Scylla with Grafana
-- [zuchka/grafana-box](https://github.com/zuchka/grafana-box) - bootstrap Grafana test machines using bash and Terraform
 - [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [olimorris/tmux-pomodoro-plus](https://github.com/olimorris/tmux-pomodoro-plus) - 🍅 Incorporate the Pomodoro technique into your tmux workflow
