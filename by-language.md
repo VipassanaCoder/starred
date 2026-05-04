@@ -1649,7 +1649,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [napalm-automation/napalm](https://github.com/napalm-automation/napalm) - Network Automation and Programmability Abstraction Layer with Multivendor support
 - [antithesishq/etcd-test-composer](https://github.com/antithesishq/etcd-test-composer) - A reference for using Antithesis tooling when testing on the Antithesis platform.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [grafana/loki-fundamentals](https://github.com/grafana/loki-fundamentals) - Tutorial repository for Loki fundamentals
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
