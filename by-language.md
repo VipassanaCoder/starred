@@ -584,7 +584,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [kevinschoon/pomo](https://github.com/kevinschoon/pomo) - Pomodoro CLI
 - [messagebird/go-rest-api](https://github.com/messagebird/go-rest-api) - MessageBird's REST API for Go
-- [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
+- [FyshOS/tyde](https://github.com/FyshOS/tyde) - A full desktop environment for Linux/Unix using Fyne
 - [golang-design/thread](https://github.com/golang-design/thread) - 🧵 thead facilities in Go
 - [mna/pigeon](https://github.com/mna/pigeon) - Command pigeon generates parsers in Go from a PEG grammar.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
@@ -1643,7 +1643,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [napalm-automation/napalm](https://github.com/napalm-automation/napalm) - Network Automation and Programmability Abstraction Layer with Multivendor support
 - [antithesishq/etcd-test-composer](https://github.com/antithesishq/etcd-test-composer) - A reference for using Antithesis tooling when testing on the Antithesis platform.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [grafana/loki-fundamentals](https://github.com/grafana/loki-fundamentals) - Tutorial repository for Loki fundamentals
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
