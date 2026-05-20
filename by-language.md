@@ -552,7 +552,7 @@
 - [brendandburns/configula](https://github.com/brendandburns/configula) - Experimental configuration generator inspired by JSX
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [containerd/ltag](https://github.com/containerd/ltag) - Prepends project files with given template.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
