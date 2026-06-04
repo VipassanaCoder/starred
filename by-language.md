@@ -400,7 +400,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [uber/zanzibar](https://github.com/uber/zanzibar) - A build system & configuration system to generate versioned API gateways.
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) - Go implementation of a multiplexing and framing protocol for RPC calls
-- [nyaruka/phonenumbers](https://github.com/nyaruka/phonenumbers) - GoLang port of Google's libphonenumber library
+- [nyaruka/phonenumbers](https://github.com/nyaruka/phonenumbers) - Go port of Google's libphonenumber library
 - [uber/phonenumbers](https://github.com/uber/phonenumbers) - Uber Fork - for company PR's back upstream
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -460,7 +460,7 @@
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics
 - [andreasgerstmayr/bpftrace_exporter](https://github.com/andreasgerstmayr/bpftrace_exporter) - Export variables from bpftrace scripts as metrics.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [koding/kite](https://github.com/koding/kite) - Micro-service framework in Go
 - [ardanlabs/python-go](https://github.com/ardanlabs/python-go) - Training material on how to leverage Python and Go together to solve different problems.
 - [ardanlabs/service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
@@ -1338,7 +1338,6 @@
 ## MDX 
 
 - [element-hq/compound](https://github.com/element-hq/compound) - Element's design system
-- [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 
 ## Makefile 
@@ -1914,7 +1913,7 @@
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic. Used by developers and AI coding agents.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [DBCDK/metamorph](https://github.com/DBCDK/metamorph) - Deployment tool for your deployment tool
@@ -2423,6 +2422,7 @@
 - [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
+- [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [CommunitySolidServer/CommunitySolidServer](https://github.com/CommunitySolidServer/CommunitySolidServer) - An open and modular implementation of the Solid specifications
 - [inrupt/solid-client-notifications-js](https://github.com/inrupt/solid-client-notifications-js) - A JS client library for Solid notifications
 - [inrupt-archived/solid-ui-react](https://github.com/inrupt-archived/solid-ui-react) - React SDK using @inrupt/solid-client
