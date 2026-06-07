@@ -1252,7 +1252,7 @@
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
-- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [nvim-mini/mini.files](https://github.com/nvim-mini/mini.files) - Navigate and manipulate file system. Part of 'mini.nvim' library.
 - [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua) - The fastest Neovim colorizer
@@ -1333,6 +1333,7 @@
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) - Train yourself with vim motions and make your own train tracks :)
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI tooling
 
 ## MDX 
 
@@ -2236,7 +2237,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI tooling
 
 ## Smarty 
 
@@ -2284,7 +2284,7 @@
 - [Scetch/resume](https://github.com/Scetch/resume) - Simple Resume Template
 - [danilo-leal/roles-at](https://github.com/danilo-leal/roles-at) - Find high-quality software design and engineering roles.
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [socketio/bun-engine](https://github.com/socketio/bun-engine) - The Socket.IO low-level engine for Bun
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
