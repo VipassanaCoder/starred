@@ -331,6 +331,7 @@
 - [fabiocicerchia/nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Latest Nginx with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.
 - [basecamp/nginx-lua](https://github.com/basecamp/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.
 - [mitchellh/flask-nix-example](https://github.com/mitchellh/flask-nix-example) - 
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [vzarytovskii/haskell-dev-env](https://github.com/vzarytovskii/haskell-dev-env) - A Dockerfile for Haskell Development, and DevContainer for VSCode, for installing GHC HLS (Haskell Language Server) and the required plugins
 - [haskell/docker-haskell](https://github.com/haskell/docker-haskell) - 
 - [fpco/dockerfile-argocd-deploy](https://github.com/fpco/dockerfile-argocd-deploy) - Dockerfile for image containing tools for CI jobs to deploy to Kubernetes using ArgoCD
@@ -1649,7 +1650,6 @@
 - [grafana/loki-fundamentals](https://github.com/grafana/loki-fundamentals) - Tutorial repository for Loki fundamentals
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [DBCDK/build-env](https://github.com/DBCDK/build-env) - 
@@ -1937,7 +1937,7 @@
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
-- [endevco/pitchfork](https://github.com/endevco/pitchfork) - Daemons with DX
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [jdx/demand](https://github.com/jdx/demand) - prompt library for rust
