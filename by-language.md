@@ -1116,7 +1116,7 @@
 - [neondatabase/website](https://github.com/neondatabase/website) - Official docs and website for Neon.
 - [DBCDK/bibliotekdk-next-frontend](https://github.com/DBCDK/bibliotekdk-next-frontend) - 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
+- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [fireship-io/firechat-react-native](https://github.com/fireship-io/firechat-react-native) - Firebase chat app built with React Native
 - [fireship-io/api-monetization-demo](https://github.com/fireship-io/api-monetization-demo) - Build a Monetized API with Stripe Metered Billing
@@ -1230,7 +1230,7 @@
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) - Diagrams as code in Neovim.
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
 - [mistweaverco/ndoo.nvim](https://github.com/mistweaverco/ndoo.nvim) - 🐙 ndoo.nvim - simple utils for working with Github, Bitbucket and GitLab inside Neovim.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [QuadrupleA/sqlite-page-explorer](https://github.com/QuadrupleA/sqlite-page-explorer) - Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
 - [numerataz/ninetyfive.nvim](https://github.com/numerataz/ninetyfive.nvim) - A Neovim plugin that provides really fast code suggestions.
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
