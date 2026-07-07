@@ -1146,7 +1146,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
+- [yudataguy/awesome-japanese](https://github.com/yudataguy/awesome-japanese) - Awesome Japanese Learning Resources
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [0xcra5hs/nodejs-saga-microservice](https://github.com/0xcra5hs/nodejs-saga-microservice) - Nodejs Microservices implemented in Saga Pattern
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
