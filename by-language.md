@@ -1115,7 +1115,7 @@
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [neondatabase/website](https://github.com/neondatabase/website) - Official docs and website for Neon.
 - [DBCDK/bibliotekdk-next-frontend](https://github.com/DBCDK/bibliotekdk-next-frontend) - 
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX + Summer of Code
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -1280,7 +1280,6 @@
 - [klen/nvim-test](https://github.com/klen/nvim-test) - A Neovim wrapper for running tests
 - [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
-- [yasunori0418/dotfiles](https://github.com/yasunori0418/dotfiles) - My dotfiles, all my wisdom, my castle.
 - [b0o/Mulberry](https://github.com/b0o/Mulberry) - 🫐 Single-file Lua BDD library for testing Neovim plugins
 - [b0o/dotfiles](https://github.com/b0o/dotfiles) - ☄ Maddison's dotfiles!
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - 🗺 A better way to create key mappings in Neovim
@@ -2207,6 +2206,7 @@
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [jonhoo/configs](https://github.com/jonhoo/configs) - My configuration files
 - [amtoine/pkgbuilds](https://github.com/amtoine/pkgbuilds) - A collection of PKGBUILDs to install my configuration
+- [yasunori0418/dotfiles](https://github.com/yasunori0418/dotfiles) - My dotfiles, all my wisdom, my castle.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [b0o/zfzf](https://github.com/b0o/zfzf) - zfzf is a fzf-based file picker for zsh which allows you to quickly navigate the directory hierarchy
 - [b0o/arch-lwc](https://github.com/b0o/arch-lwc) - 🚛 Create & run lightweight Arch Linux containers
