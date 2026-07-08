@@ -3560,7 +3560,7 @@
 - [bobstrecansky/SLIsSLOsWhatAreThose](https://github.com/bobstrecansky/SLIsSLOsWhatAreThose) - Service Level Indicator and Objective Examples for the deliver-better.com blog.
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [efficientgo/core](https://github.com/efficientgo/core) - Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies.
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX + Summer of Code
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
