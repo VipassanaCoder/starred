@@ -277,6 +277,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zig](#zig)
@@ -301,7 +302,7 @@
 ## agents 
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
@@ -322,7 +323,7 @@
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -363,7 +364,6 @@
 
 ## analytics 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [openmeterio/openmeter](https://github.com/openmeterio/openmeter) - Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
@@ -742,6 +742,7 @@
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) - MCP implementation of Claude Code capabilities and more
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
@@ -2020,7 +2021,6 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [fr-ser/grafana-sqlite-datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana Plugin to enable SQLite as a Datasource
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -2192,7 +2192,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [sigrlami/haskellcosm](https://github.com/sigrlami/haskellcosm) - Collecting information about Haskell ecosystem - companies, communities, media, etc.
 - [erkmos/haskell-companies](https://github.com/erkmos/haskell-companies) - A gently curated list of companies using Haskell in industry
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [ekmett/auth](https://github.com/ekmett/auth) - 
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
@@ -2207,7 +2207,7 @@
 
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI tooling
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI harness
 
 ## html 
 
@@ -2405,7 +2405,7 @@
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
@@ -2788,7 +2788,7 @@
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI tooling
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI harness
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## mac 
@@ -2890,7 +2890,7 @@
 - [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef) - Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2992,7 +2992,6 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It suppor
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -3104,7 +3103,7 @@
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI tooling
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - Personal macOS dotfiles: terminal, editors, shell, AI harness
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## nestjs 
@@ -4262,7 +4261,6 @@
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -4506,7 +4504,6 @@
 
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 
@@ -5339,7 +5336,7 @@
 - [o-development/solid-authn-react-native](https://github.com/o-development/solid-authn-react-native) - React Native implementations for Solid-OIDC
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [thirdweb-dev/js](https://github.com/thirdweb-dev/js) - Best in class web3 SDKs for Browser, Node and Mobile apps
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
 
@@ -5364,7 +5361,7 @@
 - [7guis/7guis](https://github.com/7guis/7guis) - 7GUIs is a GUI programming usability benchmark.
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 ## ui-design 
@@ -5509,7 +5506,7 @@
 
 ## web-assembly 
 
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 
 ## web-components 
 
@@ -5570,6 +5567,13 @@
 ## wordpress 
 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+## workflow 
+
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef) - Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
 ## xml 
 
