@@ -1010,7 +1010,7 @@
 - [sigrlami/haskellcosm](https://github.com/sigrlami/haskellcosm) - Collecting information about Haskell ecosystem - companies, communities, media, etc.
 - [haskell/parsec](https://github.com/haskell/parsec) - A monadic parser combinator library
 - [haskell/fgl](https://github.com/haskell/fgl) - A Functional Graph Library for Haskell
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [snapframework/snap](https://github.com/snapframework/snap) - Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates.
 - [yesodweb/yesod](https://github.com/yesodweb/yesod) - A RESTful Haskell web framework built on WAI.
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
