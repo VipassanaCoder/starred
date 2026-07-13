@@ -642,7 +642,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [One-com/gone](https://github.com/One-com/gone) - Golang packages for writing small daemons and servers.
 - [One-com/ozone](https://github.com/One-com/ozone) - Golang HTTP server/proxy daemon engine
-- [skurhse/fisher](https://github.com/skurhse/fisher) - passages for the rust/go learner
+- [skurhse/fisher](https://github.com/skurhse/fisher) - passages for the golang learner
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [pwaller/docker-show-context](https://github.com/pwaller/docker-show-context) - Show where time is wasted during the context upload of `docker build`
@@ -1340,7 +1340,6 @@
 ## MDX 
 
 - [element-hq/compound](https://github.com/element-hq/compound) - Element's design system
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 
 ## Makefile 
@@ -2103,6 +2102,7 @@
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [ThePrimeagen/htmx-class-template](https://github.com/ThePrimeagen/htmx-class-template) - The starter template with server in go or rust
