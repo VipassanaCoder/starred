@@ -1154,7 +1154,7 @@
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 - [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
@@ -3982,7 +3982,6 @@
 - [Soostone/retry](https://github.com/Soostone/retry) - Retry combinators for monadic actions that may fail
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
 - [fpco/rest-client](https://github.com/fpco/rest-client) - 
-- [chrisdone-archive/tryhaskell](https://github.com/chrisdone-archive/tryhaskell) - Try Haskell
 - [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [chrisdone-archive/inflex](https://github.com/chrisdone-archive/inflex) - Pure, statically typed, content-addressable, programming language for spreadsheet use
 - [fpco/build-profile](https://github.com/fpco/build-profile) - 
