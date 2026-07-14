@@ -983,7 +983,6 @@
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
 - [fpco/rest-client](https://github.com/fpco/rest-client) - 
 - [chrisdone-archive/duet](https://github.com/chrisdone-archive/duet) - A tiny language, a subset of Haskell aimed at aiding teachers teach Haskell
-- [chrisdone-archive/tryhaskell](https://github.com/chrisdone-archive/tryhaskell) - Try Haskell
 - [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [chrisdone-archive/inflex](https://github.com/chrisdone-archive/inflex) - Pure, statically typed, content-addressable, programming language for spreadsheet use
 - [fpco/build-profile](https://github.com/fpco/build-profile) - 
