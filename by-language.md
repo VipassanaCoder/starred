@@ -562,7 +562,7 @@
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [genuinetools/weather](https://github.com/genuinetools/weather) - Weather via the command line.
 - [kirillrdy/nixos-installer](https://github.com/kirillrdy/nixos-installer) - 
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification
 - [catatsuy/purl](https://github.com/catatsuy/purl) - Streamlining Text Processing
