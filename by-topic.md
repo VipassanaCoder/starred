@@ -1088,7 +1088,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [polarsignals/frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
@@ -2407,7 +2407,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant, and unusually versatile. No protoc required.
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
@@ -4947,7 +4947,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [michaelsippel/ltsh](https://github.com/michaelsippel/ltsh) - tiny utility program for type-analysis of shell pipelines based on ladder-typing
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+- [binpash/try](https://github.com/binpash/try) - Control and manipulate a command's effects before modifying your live system
 - [numToStr/dotfiles](https://github.com/numToStr/dotfiles) - 🏡 /.dotfiles | Includes configs for neovim, tmux, zsh, alacrity, kitty, and more | Managed by GNU stow
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -5008,7 +5008,7 @@
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
@@ -5336,7 +5336,7 @@
 - [thirdweb-dev/js](https://github.com/thirdweb-dev/js) - Best in class web3 SDKs for Browser, Node and Mobile apps
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Fast, conformant, and versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript. Very fast, fully conformant, and unusually versatile. No protoc required.
 
 ## ubuntu 
 
