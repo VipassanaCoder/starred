@@ -1003,7 +1003,7 @@
 - [ndmitchell/hlint](https://github.com/ndmitchell/hlint) - Haskell source code suggestions
 - [Gabriella439/turtle](https://github.com/Gabriella439/turtle) - Shell programming, Haskell style
 - [nikita-volkov/domain](https://github.com/nikita-volkov/domain) - Focused domain model declaration toolkit for Haskell
-- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
+- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - Reliable and fast PostgreSQL driver for Haskell
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [sigrlami/haskellcosm](https://github.com/sigrlami/haskellcosm) - Collecting information about Haskell ecosystem - companies, communities, media, etc.
 - [haskell/parsec](https://github.com/haskell/parsec) - A monadic parser combinator library
@@ -2223,6 +2223,7 @@
 - [librestack/giveupgithub.sh](https://github.com/librestack/giveupgithub.sh) - Give Up GitHub (The Musical^H^H^H^H^H^H^H Script)
 - [glepnir/dotfiles](https://github.com/glepnir/dotfiles) - my personal dotfiles on mac or arch
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [Dockershelf/dockershelf](https://github.com/Dockershelf/dockershelf) - A repository containing useful, lightweight and reliable dockerfiles.
 - [mrnugget/dotfiles](https://github.com/mrnugget/dotfiles) - My dotfiles, including configuration for zsh, tmux, psql
 - [RubenVerborgh/dotfiles](https://github.com/RubenVerborgh/dotfiles) - Ruben Verborgh's dotfiles
@@ -2406,7 +2407,6 @@
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [allaboutapps/react-starter](https://github.com/allaboutapps/react-starter) - allaboutapps web frontend starter template using react and vite
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) - A glossy Matrix collaboration client for desktop.
