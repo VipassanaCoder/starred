@@ -303,7 +303,7 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
@@ -325,7 +325,7 @@
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -743,7 +743,7 @@
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) - MCP implementation of Claude Code capabilities and more
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
@@ -2889,7 +2889,7 @@
 - [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef) - Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3636,7 +3636,7 @@
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
-- [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
+- [pass-extension/pass-otp](https://github.com/pass-extension/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [z-shell/zsh-eza](https://github.com/z-shell/zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with eza-community/eza
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
