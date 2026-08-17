@@ -515,7 +515,7 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
@@ -3996,7 +3996,7 @@
 - [fpco/terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 - [argoproj/argoproj](https://github.com/argoproj/argoproj) - Common project repo for all Argo Projects
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.
-- [deepops-ai/deepops](https://github.com/deepops-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
+- [iorigin-ai/deepops](https://github.com/iorigin-ai/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
 - [chrthomsen/pygrametl](https://github.com/chrthomsen/pygrametl) - Official repository for pygrametl - ETL programming in Python
 - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -4437,7 +4437,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production
