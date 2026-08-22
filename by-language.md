@@ -1167,7 +1167,7 @@
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
-- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - High-performance Protocol Buffers for JavaScript and TypeScript. Conformant through Edition 2024, and unusually versatile. No protoc required.
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - High-performance Protocol Buffers for JavaScript and TypeScript. Conformant through Edition 2026, and unusually versatile. No protoc required.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
