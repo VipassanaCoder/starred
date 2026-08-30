@@ -1308,7 +1308,6 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [katanaml/katana-skipper](https://github.com/katanaml/katana-skipper) - Simple and flexible ML workflow engine
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [lukaszbudnik/yosoy](https://github.com/lukaszbudnik/yosoy) - yosoy is an HTTP service for stubbing and prototyping distributed applications.
 - [lukaszbudnik/haproxy-auth-gateway](https://github.com/lukaszbudnik/haproxy-auth-gateway) - haproxy-auth-gateway is an authentication and authorization gateway for cloud native apps.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -2532,7 +2531,6 @@
 - [DBCDK/kubernixos](https://github.com/DBCDK/kubernixos) - Simple kubernetes manifest reconciler configured by NixOS modules
 - [katanaml/katana-skipper](https://github.com/katanaml/katana-skipper) - Simple and flexible ML workflow engine
 - [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [lukaszbudnik/yosoy](https://github.com/lukaszbudnik/yosoy) - yosoy is an HTTP service for stubbing and prototyping distributed applications.
@@ -3738,7 +3736,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
 - [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers
@@ -3894,6 +3892,7 @@
 - [bos/pronk](https://github.com/bos/pronk) - A small command line application for load testing web servers.  Think of it as similar to httperf or ab, only more modern and simpler to deal with.
 - [aymannadeem/foldilocks](https://github.com/aymannadeem/foldilocks) - Tutorial using ghci to make folds easier. Come for the tutorial, stay for the fold puns.
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [salvarezzaf/kindle-clippings-parser](https://github.com/salvarezzaf/kindle-clippings-parser) - Simple parser for kindle clippings txt file which stores highlights and notes for all your books
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
