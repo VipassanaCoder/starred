@@ -3560,7 +3560,7 @@
 - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX + Summer of Code
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [hashicorp/raft-wal](https://github.com/hashicorp/raft-wal) - experimental raft storage
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [kubernetes-purgatory/kubernetes-mixin](https://github.com/kubernetes-purgatory/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [kelseyhightower/kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [grafana/grafana-foundation-sdk](https://github.com/grafana/grafana-foundation-sdk) - A set of tools, types and libraries for building and manipulating Grafana objects.
