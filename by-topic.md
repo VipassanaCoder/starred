@@ -3733,7 +3733,6 @@
 - [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [rinodung/ufw-uncomplicated-firewall](https://github.com/rinodung/ufw-uncomplicated-firewall) - UFW is the default firewall tool for Ubuntu servers, it is basically designed to lesser the complexity of the iptables firewall and makes it more user friendly. A Graphical user interface of ufw, GUFW
 - [sschoger/heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
@@ -5493,6 +5492,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [threema-ch/threema-web](https://github.com/threema-ch/threema-web) - The Threema Web application.
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
@@ -5516,6 +5516,7 @@
 
 ## web-development 
 
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
 ## web3 
