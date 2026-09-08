@@ -58,6 +58,7 @@
 - [Pug](#pug)
 - [PureScript](#purescript)
 - [Python](#python)
+- [QML](#qml)
 - [R](#r)
 - [Riot](#riot)
 - [Rocq Prover](#rocq-prover)
@@ -1181,7 +1182,7 @@
 
 - [neticdk/kubernetes-mixin](https://github.com/neticdk/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins
-- [kubernetes-purgatory/kubernetes-mixin](https://github.com/kubernetes-purgatory/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 ## Jupyter Notebook 
 
@@ -1772,6 +1773,10 @@
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 
+## QML 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+
 ## R 
 
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
@@ -2217,7 +2222,6 @@
 - [librestack/giveupgithub.sh](https://github.com/librestack/giveupgithub.sh) - Give Up GitHub (The Musical^H^H^H^H^H^H^H Script)
 - [glepnir/dotfiles](https://github.com/glepnir/dotfiles) - my personal dotfiles on mac or arch
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [Dockershelf/dockershelf](https://github.com/Dockershelf/dockershelf) - A repository containing useful, lightweight and reliable dockerfiles.
 - [mrnugget/dotfiles](https://github.com/mrnugget/dotfiles) - My dotfiles, including configuration for zsh, tmux, psql
 - [RubenVerborgh/dotfiles](https://github.com/RubenVerborgh/dotfiles) - Ruben Verborgh's dotfiles
