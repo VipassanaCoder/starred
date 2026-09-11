@@ -919,7 +919,7 @@
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix) - Generate Nix build instructions from a Cabal file
 - [Gabriella439/slides](https://github.com/Gabriella439/slides) - Slides from talks that I give
 - [cmoog/traderjoes](https://github.com/cmoog/traderjoes) - Price tracking program and website for Trader Joe's, updated daily.
