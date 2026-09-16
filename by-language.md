@@ -949,7 +949,7 @@
 - [hadolint/dockerfile-creator](https://github.com/hadolint/dockerfile-creator) - Create Dockerfiles using an embedded DSL in Haskell
 - [hadolint/language-docker](https://github.com/hadolint/language-docker) - Haskell Dockerfile parser, pretty-printer and EDSL
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - MOVED TO CODEBERG. THIS IS A MIRROR.
+- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - !!! --- MOVED TO CODEBERG --- !!!
 - [y-taka-23/miso-tutorial-app](https://github.com/y-taka-23/miso-tutorial-app) - An example GHCJS + Miso single page application. 🍜
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [haskell-servant/servant](https://github.com/haskell-servant/servant) - Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
