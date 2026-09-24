@@ -2281,7 +2281,7 @@
 - [Scetch/resume](https://github.com/Scetch/resume) - Simple Resume Template
 - [danilo-leal/roles-at](https://github.com/danilo-leal/roles-at) - Find high-quality software design and engineering roles.
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [socketio/bun-engine](https://github.com/socketio/bun-engine) - The Socket.IO low-level engine for Bun
 - [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14.5x faster response times (0.12ms vs 1.74ms) and 53.1x higher throughput (89,371 vs 1,683 req/sec) than
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
