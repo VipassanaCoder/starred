@@ -1051,7 +1051,7 @@
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [qos-ch/slf4j](https://github.com/qos-ch/slf4j) - Simple Logging Facade for Java
 - [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
-- [redis/lettuce](https://github.com/redis/lettuce) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+- [redis/lettuce](https://github.com/redis/lettuce) - Redis Java client
 - [assertj/assertj](https://github.com/assertj/assertj) - Fluent testing assertions for Java and the JVM
 - [wiremock/wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
