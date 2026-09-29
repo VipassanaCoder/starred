@@ -896,6 +896,7 @@
 - [ipfs/specs](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack
 - [alba4k/.dotfiles](https://github.com/alba4k/.dotfiles) - My dotfiles for my configuration (programs I use the most)
 - [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 
 ## Handlebars 
 
@@ -918,7 +919,7 @@
 - [haskellfoundation/tech-proposals](https://github.com/haskellfoundation/tech-proposals) - The Haskell Foundation Tech Proposal Process
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
-- [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
+- [NixOS/nixpkgs-update](https://github.com/NixOS/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix) - Generate Nix build instructions from a Cabal file
 - [Gabriella439/slides](https://github.com/Gabriella439/slides) - Slides from talks that I give
@@ -1169,7 +1170,6 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - High-performance Protocol Buffers for JavaScript and TypeScript. Conformant through Edition 2026, and unusually versatile. No protoc required.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
-- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [naveennamani/offline-docs](https://github.com/naveennamani/offline-docs) - A collection of scripts to build offline documentation for your favourite frameworks/libraries. Simply search, copy/paste the commands and enjoy.
 
