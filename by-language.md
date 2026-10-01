@@ -847,7 +847,7 @@
 
 ## Groovy 
 
-- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
+- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A workflow language for data-driven computational pipelines
 - [mfussenegger/gradle-jenkins-job-dsl-plugin](https://github.com/mfussenegger/gradle-jenkins-job-dsl-plugin) - Plugin for easy management of Jenkins Job DSL scripts with Gradle
 
 ## HCL 
