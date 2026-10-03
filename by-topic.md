@@ -1066,7 +1066,7 @@
 ## data-structures 
 
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-- [ekmett/auth](https://github.com/ekmett/auth) - 
+- [ekmett/auth-hs](https://github.com/ekmett/auth-hs) - 
 
 ## data-visualization 
 
@@ -2193,7 +2193,7 @@
 - [erkmos/haskell-companies](https://github.com/erkmos/haskell-companies) - A gently curated list of companies using Haskell in industry
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web and mobile framework
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-- [ekmett/auth](https://github.com/ekmett/auth) - 
+- [ekmett/auth-hs](https://github.com/ekmett/auth-hs) - 
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
@@ -2624,7 +2624,7 @@
 - [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini) - A high-level API for programmatically interacting with web pages through WebDriver.
 - [go-crypt/crypt](https://github.com/go-crypt/crypt) - Convenient Password Hashing Library in Go
 - [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
-- [ekmett/auth](https://github.com/ekmett/auth) - 
+- [ekmett/auth-hs](https://github.com/ekmett/auth-hs) - 
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 ## linux 
