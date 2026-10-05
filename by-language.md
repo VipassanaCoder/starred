@@ -1013,7 +1013,7 @@
 - [ekmett/containers](https://github.com/ekmett/containers) - 
 - [ekmett/hashable](https://github.com/ekmett/hashable) - A class for types that can be converted to a hash value
 - [ekmett/safe-exceptions](https://github.com/ekmett/safe-exceptions) - Safe, consistent, and easy exception handling
-- [ekmett/auth](https://github.com/ekmett/auth) - 
+- [ekmett/auth-hs](https://github.com/ekmett/auth-hs) - 
 - [ekmett/tar](https://github.com/ekmett/tar) - Reading, writing and manipulating ".tar" archive files.
 - [ekmett/hash](https://github.com/ekmett/hash) - Double hashing, rolling hashes, CRCs, etc.
 - [ekmett/heaps](https://github.com/ekmett/heaps) - Asymptotically optimal Brodal/Okasaki heaps
