@@ -2231,6 +2231,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [anurag3301/my-linux-setup](https://github.com/anurag3301/my-linux-setup) - Here I store all the Linux dotfiles and installation stuff.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - macos/linux: terminal, editors, shell, AI harness
 
 ## Smarty 
 
@@ -2283,7 +2284,7 @@
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
@@ -2447,7 +2448,6 @@
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [tjdevries/vim-be-good](https://github.com/tjdevries/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
-- [sjdonado/dotfiles](https://github.com/sjdonado/dotfiles) - macos/linux: terminal, editors, shell, AI harness
 
 ## Vala 
 
