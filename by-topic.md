@@ -660,7 +660,7 @@
 
 ## bot 
 
-- [open-webui/bot](https://github.com/open-webui/bot) - beep boop 🤖 (experimental)
+- [open-webui/bot](https://github.com/open-webui/bot) - Deprecated; Please use https://github.com/open-webui/oix instead
 
 ## c 
 
@@ -3977,7 +3977,6 @@
 - [Soostone/retry](https://github.com/Soostone/retry) - Retry combinators for monadic actions that may fail
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
 - [fpco/rest-client](https://github.com/fpco/rest-client) - 
-- [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [chrisdone-archive/inflex](https://github.com/chrisdone-archive/inflex) - Pure, statically typed, content-addressable, programming language for spreadsheet use
 - [fpco/build-profile](https://github.com/fpco/build-profile) - 
 - [fpco/devops-helpers](https://github.com/fpco/devops-helpers) - Devops helper scripts
