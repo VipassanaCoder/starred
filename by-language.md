@@ -980,7 +980,6 @@
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
 - [fpco/rest-client](https://github.com/fpco/rest-client) - 
 - [chrisdone-archive/duet](https://github.com/chrisdone-archive/duet) - A tiny language, a subset of Haskell aimed at aiding teachers teach Haskell
-- [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [chrisdone-archive/inflex](https://github.com/chrisdone-archive/inflex) - Pure, statically typed, content-addressable, programming language for spreadsheet use
 - [fpco/build-profile](https://github.com/fpco/build-profile) - 
 - [fpco/monad-logger-syslog](https://github.com/fpco/monad-logger-syslog) - monad-logger for syslog
@@ -1282,7 +1281,6 @@
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest) - 
-- [VIVelev/dotfiles](https://github.com/VIVelev/dotfiles) - .config files
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - take your scientific notes :pencil2: in Neovim
 - [Avimitin/nvim](https://github.com/Avimitin/nvim) - Handy, maintainable, multi-languages supported neovim configuration.
@@ -1647,7 +1645,7 @@
 - [DBCDK/build-env](https://github.com/DBCDK/build-env) - 
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [brendandburns/designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
-- [open-webui/bot](https://github.com/open-webui/bot) - beep boop 🤖 (experimental)
+- [open-webui/bot](https://github.com/open-webui/bot) - Deprecated; Please use https://github.com/open-webui/oix instead
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
