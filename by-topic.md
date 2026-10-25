@@ -1442,7 +1442,7 @@
 
 ## esp32 
 
-- [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for the ESPARGOS WiFi antenna array
+- [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for the ESPARGOS digital phased array
 
 ## ethereum 
 
@@ -4381,7 +4381,7 @@
 - [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for the ESPARGOS WiFi antenna array
+- [ESPARGOS/pyespargos](https://github.com/ESPARGOS/pyespargos) - The python library for the ESPARGOS digital phased array
 - [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
 - [reflex-dev/reflex-chakra](https://github.com/reflex-dev/reflex-chakra) - Chakra Implementation in Reflex
 - [reflex-dev/reflex-examples](https://github.com/reflex-dev/reflex-examples) - A repository full of Reflex example apps.
