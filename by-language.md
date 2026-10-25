@@ -1040,7 +1040,7 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [antithesishq/sqlancer](https://github.com/antithesishq/sqlancer) - Optimized for Antithesis: Automated testing to find logic and performance bugs in database systems
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [messagebird/java-rest-api](https://github.com/messagebird/java-rest-api) - This repository contains the open source Java client for MessageBird's REST API.
