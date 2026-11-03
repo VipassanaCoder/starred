@@ -14,6 +14,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [ansible](#ansible)
@@ -414,6 +415,10 @@
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [berty/yolo](https://github.com/berty/yolo) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+
+## android-app 
+
+- [threema-ch/threema-android](https://github.com/threema-ch/threema-android) - Threema App for Android.
 
 ## angular 
 
@@ -3770,7 +3775,6 @@
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [threema-ch/app-remote-protocol](https://github.com/threema-ch/app-remote-protocol) - The protocol used for communicating between the Threema mobile apps and a remote application (e.g. Threema Web).
 - [threema-ch/compose-area](https://github.com/threema-ch/compose-area) - A compose area with support for inline images, written with Rust + Webassembly.
-- [threema-ch/threema-android](https://github.com/threema-ch/threema-android) - Threema App for Android.
 - [threema-ch/better-sqlcipher](https://github.com/threema-ch/better-sqlcipher) - A fork of better-sqlite3 with support for sqlcipher
 - [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [Railway-Wallet/Railway-Wallet](https://github.com/Railway-Wallet/Railway-Wallet) - Railway Private DeFi Wallet
