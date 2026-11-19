@@ -190,7 +190,6 @@
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
-- [HoussemDellai/WebAppMonitoring](https://github.com/HoussemDellai/WebAppMonitoring) - Sample project for using Prometheus and Grafana to monitor an ASP.NET Core app running in Kubernetes
 - [IntelliTect/Coalesce](https://github.com/IntelliTect/Coalesce) - Quickly build amazing web apps
 - [IntelliTect/TestTools](https://github.com/IntelliTect/TestTools) - A collection of tools for aiding in test automation
 - [IntelliTect/EssentialCSharp](https://github.com/IntelliTect/EssentialCSharp) - This project contains the source code for the book Essential C# by Mark Michaelis (Addison-Wesley).
@@ -855,7 +854,6 @@
 
 - [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
 - [neondatabase/terraform-k8s-fluxcd-sops](https://github.com/neondatabase/terraform-k8s-fluxcd-sops) - 
-- [HoussemDellai/aks-course](https://github.com/HoussemDellai/aks-course) - Demoing Kubernetes/AKS features
 - [CircleCI-Public/server-terraform](https://github.com/CircleCI-Public/server-terraform) - Help Terraform modules for CircleCI server
 - [fpco/terraform-aws-foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform
 
@@ -878,8 +876,6 @@
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-- [HoussemDellai/WebAppWithDatabaseDemo](https://github.com/HoussemDellai/WebAppWithDatabaseDemo) - Sample ASP.NET Core MVC app with database for demoing CI-CD pipelines using Azure DevOps
-- [HoussemDellai/ProductsStoreOnKubernetes](https://github.com/HoussemDellai/ProductsStoreOnKubernetes) - Demoing deployment of Docker containers into Kubernetes for both minikube and Azure AKS.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [matrix-org/matrix-spec](https://github.com/matrix-org/matrix-spec) - The Matrix protocol specification
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -1988,7 +1984,7 @@
 - [rustadopt/uzers-rs](https://github.com/rustadopt/uzers-rs) - Library for Unix users and groups in Rust.
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [assert-rs/snapbox](https://github.com/assert-rs/snapbox) - Snapshot testing for a herd of CLI tests
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [prefix-dev/resolvo](https://github.com/prefix-dev/resolvo) - Fast package resolver written in Rust (CDCL based SAT solving)
