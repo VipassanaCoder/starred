@@ -3914,7 +3914,7 @@
 - [bos/pronk](https://github.com/bos/pronk) - A small command line application for load testing web servers.  Think of it as similar to httperf or ab, only more modern and simpler to deal with.
 - [aymannadeem/foldilocks](https://github.com/aymannadeem/foldilocks) - Tutorial using ghci to make folds easier. Come for the tutorial, stay for the fold puns.
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [salvarezzaf/kindle-clippings-parser](https://github.com/salvarezzaf/kindle-clippings-parser) - Simple parser for kindle clippings txt file which stores highlights and notes for all your books
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
