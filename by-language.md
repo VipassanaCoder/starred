@@ -2191,7 +2191,7 @@
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [richo/babashka](https://github.com/richo/babashka) - 
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - 🏠 $HOME/.config
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
 - [jonhoo/configs](https://github.com/jonhoo/configs) - My configuration files
 - [amtoine/pkgbuilds](https://github.com/amtoine/pkgbuilds) - A collection of PKGBUILDs to install my configuration
@@ -2276,7 +2276,7 @@
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [socketio/bun-engine](https://github.com/socketio/bun-engine) - The Socket.IO low-level engine for Bun
-- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14.5x faster response times (0.12ms vs 1.74ms) and 53.1x higher throughput (89,371 vs 1,683 req/sec) than
+- [rari-build/rari](https://github.com/rari-build/rari) - rari: High-performance React Server Components framework powered by a Rust runtime, delivering 14.9x faster response times (0.10ms vs 1.49ms) and 61.6x higher throughput (104,754 vs 1,701 req/sec) tha
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css
